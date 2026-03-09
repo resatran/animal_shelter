@@ -1,0 +1,865 @@
+animal_id,name,datetime,intake_type,intake_condition,animal_type,sex_upon_intake,age_upon_intake,breed,color
+A636629,,09/07/2014 04:31:00 PM,Stray,Normal,Cat,Spayed Female,4 years,Domestic Shorthair Mix,Tortie
+A645513,,05/18/2015 07:30:00 AM,Stray,Injured,Cat,Neutered Male,6 years,Domestic Longhair Mix,Cream Tabby/White
+A904714,,05/13/2024 01:24:00 PM,Stray,Sick,Cat,Intact Male,1 weeks,Domestic Shorthair,Blue
+A846230,*Brody,11/12/2021 08:52:00 AM,Public Assist,Normal,Dog,Intact Male,2 years,Pit Bull,Brown Brindle
+A853481,*Lovebird,03/19/2022 12:05:00 PM,Stray,Normal,Dog,Intact Female,1 year,American Pit Bull Terrier/Labrador Retriever,Black/White
+A872909,*Ken Doll,01/17/2023 10:42:00 AM,Stray,Normal,Dog,Neutered Male,2 years,Labrador Retriever Mix,Cream
+A878958,*Jenni,04/19/2023 03:14:00 PM,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Blue/White
+A880043,,05/03/2023 06:44:00 PM,Stray,Neonatal,Cat,Intact Male,1 weeks,Domestic Shorthair,Black
+A883761,*Levi,06/23/2023 10:23:00 AM,Stray,Normal,Dog,Intact Male,7 years,Blue Lacy Mix,Blue
+A888504,Cooper,09/07/2023 05:16:00 PM,Abandoned,Normal,Dog,Neutered Male,8 years,Black Mouth Cur Mix,Tan
+A892393,*Marina,11/05/2023 10:15:00 AM,Stray,Sick,Dog,Intact Female,5 years,Labrador Retriever/Pit Bull,Black/Black
+A892413,*Huey,11/05/2023 03:14:00 PM,Stray,Injured,Dog,Intact Male,6 months,Australian Cattle Dog,White/Brown
+A892955,Cloudy Bear,11/13/2023 08:33:00 PM,Stray,Injured,Cat,Intact Male,3 years,Domestic Shorthair,Blue/White
+A892786,Cashew,11/20/2023 01:24:00 PM,Owner Surrender,Normal,Dog,Neutered Male,2 years,Pit Bull Mix,Tan
+A893841,*Happy,11/29/2023 12:15:00 PM,Stray,Normal,Dog,Intact Male,2 years,Labrador Retriever Mix,Black
+A895106,*Venus,12/27/2023 10:30:00 AM,Abandoned,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Torbie/White
+A897463,*Mississippi,02/02/2024 10:03:00 AM,Stray,Injured,Dog,Intact Female,2 years,Black Mouth Cur Mix,Red
+A897724,*Tina,02/06/2024 08:02:00 AM,Abandoned,Injured,Dog,Intact Female,10 years,Labrador Retriever,Brown/Black
+A897868,*Denver,02/08/2024 08:55:00 AM,Stray,Injured,Dog,Intact Male,1 year,Labrador Retriever/Chinese Sharpei,Black
+A897943,*Pepper,02/09/2024 11:52:00 AM,Stray,Normal,Dog,Spayed Female,3 years,Pit Bull Mix,Black/White
+A900126,*Lennox,03/14/2024 07:40:00 PM,Stray,Sick,Dog,Intact Male,1 year,Black Mouth Cur,Tan/Black
+A901143,*Telly,04/04/2024 11:18:00 AM,Stray,Normal,Dog,Intact Female,1 year,Australian Cattle Dog,White/Brown
+A902357,*Dinosaur,04/16/2024 11:13:00 AM,Owner Surrender,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Black
+A903222,Queen,04/26/2024 10:19:00 PM,Public Assist,Injured,Dog,Intact Female,3 years,Pit Bull,Chocolate/White
+A901646,*Updog,05/03/2024 03:35:00 PM,Stray,Normal,Dog,Intact Male,2 years,Catahoula Mix,Blue Merle/Black
+A904323,*Addie,05/09/2024 09:24:00 AM,Abandoned,Injured,Dog,Intact Female,1 year,Pit Bull,Brown/White
+A904451,*Simone,05/10/2024 10:49:00 AM,Stray,Normal,Cat,Intact Female,6 years,Domestic Shorthair Mix,Brown Tabby/White
+A861888,*Hami,05/15/2024 01:18:00 PM,Stray,Normal,Dog,Neutered Male,3 years,Plott Hound,Brown Brindle/White
+A905098,*Melon,05/17/2024 05:23:00 AM,Public Assist,Sick,Dog,Spayed Female,3 years,Pit Bull Mix,Blue
+A906688,*Candy Land,06/06/2024 12:08:00 PM,Stray,Injured,Dog,Intact Female,2 years,Pit Bull Mix,Fawn
+A906755,Penny,06/06/2024 08:57:00 PM,Owner Surrender,Normal,Dog,Spayed Female,7 years,Labrador Retriever Mix,Tan
+A906816,*Kermit,06/07/2024 12:33:00 PM,Stray,Normal,Dog,Intact Male,11 months,American Pit Bull Terrier,Black/Tan
+A907017,*Maximillion,06/10/2024 11:13:00 AM,Owner Surrender,Normal,Dog,Intact Male,9 months,Pit Bull Mix,White/Tan
+A907394,*Vincent,06/15/2024 02:50:00 PM,Stray,Injured,Cat,Intact Male,9 years,Domestic Longhair,Blue
+A907577,Moko,06/17/2024 12:33:00 PM,Owner Surrender,Normal,Dog,Spayed Female,5 years,Chihuahua Shorthair Mix,White/Tan
+A907796,Pinky,06/20/2024 04:52:00 PM,Stray,Normal,Dog,Intact Female,1 year,Boston Terrier/Pit Bull,Black/White
+A908122,Stax,06/25/2024 01:40:00 PM,Stray,Normal,Dog,Intact Male,2 years,Carolina Dog Mix,White/Brown
+A908956,*Fritz,07/08/2024 12:07:00 PM,Stray,Sick,Cat,Intact Male,5 years,Domestic Shorthair,Brown Tabby
+A909211,Linda,07/11/2024 04:07:00 PM,Owner Surrender,Normal,Dog,Intact Female,1 year,Bulldog/Pit Bull,White/Red Tick
+A909320,Scott,07/13/2024 12:36:00 PM,Owner Surrender,Normal,Dog,Neutered Male,2 years,Labrador Retriever Mix,White
+A909610,Bella,07/18/2024 10:45:00 AM,Owner Surrender,Normal,Dog,Spayed Female,6 years,Rottweiler Mix,Black/Brown
+A904996,*Sunny,07/18/2024 02:38:00 PM,Stray,Normal,Dog,Intact Male,1 year,Pit Bull,White/Brown
+A910332,*Tumnus,07/29/2024 09:09:00 AM,Stray,Normal,Dog,Intact Male,2 years,Pit Bull,White/Black
+A910434,*Sammy,07/30/2024 02:02:00 PM,Stray,Normal,Dog,Intact Male,4 months,Labrador Retriever/Great Pyrenees,White/Brown
+A910435,*Kagome,07/30/2024 02:02:00 PM,Stray,Normal,Dog,Intact Female,4 months,Labrador Retriever/Great Pyrenees,White/Black
+A910430,*Jack Frost,07/30/2024 02:02:00 PM,Stray,Normal,Dog,Intact Male,4 months,Labrador Retriever/Great Pyrenees,White
+A910452,*Geedorah,07/30/2024 06:02:00 PM,Owner Surrender,Normal,Dog,Intact Female,4 years,Pit Bull Mix,White/Brown Brindle
+A910819,*Dietrich,08/05/2024 12:28:00 PM,Public Assist,Normal,Dog,Intact Male,6 years,German Shepherd,Brown/Black
+A911015,*Leo,08/08/2024 12:16:00 PM,Stray,Medical,Cat,Neutered Male,12 years,Domestic Shorthair,Blue Tabby
+A911034,*Joey,08/08/2024 03:40:00 PM,Abandoned,Normal,Dog,Intact Male,2 years,Great Pyrenees,White
+A911320,Marley,08/13/2024 11:19:00 AM,Owner Surrender,Normal,Dog,Spayed Female,7 years,Labrador Retriever/Great Pyrenees,Cream
+A911892,*Theo,08/22/2024 01:59:00 PM,Owner Surrender,Normal,Dog,Intact Male,2 years,Labrador Retriever,Black
+A912069,*Hubert,08/25/2024 12:06:00 PM,Abandoned,Normal,Dog,Neutered Male,8 years,Black/Tan Hound/German Shepherd,Black/Tan
+A912089,*Jean-Ralphio,08/25/2024 02:54:00 PM,Stray,Sick,Cat,Intact Male,2 years,Domestic Medium Hair,Cream Tabby/White
+A912170,*Laney,08/27/2024 10:09:00 AM,Stray,Injured,Dog,Intact Female,2 years,Pit Bull,Black
+A912460,*Squeaky,08/31/2024 10:18:00 AM,Stray,Normal,Dog,Intact Female,1 year,Pit Bull/Boxer,Black/White
+A912764,*Dorothy,09/05/2024 11:28:00 AM,Public Assist,Normal,Dog,Intact Female,4 years,Australian Shepherd Mix,Red/White
+A913080,*Asher,09/10/2024 11:29:00 AM,Stray,Normal,Dog,Intact Male,1 year,Pit Bull,Chocolate/White
+A913189,Waffle Fry,09/12/2024 11:37:00 AM,Stray,Sick,Dog,Neutered Male,6 months,American Staffordshire Terrier/Siberian Husky,Fawn/White
+A913320,*Puck,09/14/2024 02:51:00 PM,Stray,Injured,Dog,Intact Male,8 months,Pit Bull Mix,White/Brown
+A911861,*Jojo,09/17/2024 12:50:00 PM,Stray,Normal,Dog,Intact Female,1 year,Siberian Husky Mix,White/Gray
+A913354,*Mel,09/17/2024 04:21:00 PM,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Black/White
+A913504,*Fleur,09/18/2024 12:14:00 PM,Stray,Normal,Dog,Intact Female,6 years,Pit Bull,White/Brown Brindle
+A913753,Ladybug,09/20/2024 12:54:00 PM,Owner Surrender,Normal,Dog,Intact Female,6 years,Beagle/Rat Terrier,Black/Tricolor
+A914062,Kora,09/25/2024 11:23:00 AM,Owner Surrender,Normal,Dog,Spayed Female,1 year,American Staffordshire Terrier Mix,Blue/White
+A914215,Honey,09/27/2024 12:45:00 PM,Owner Surrender,Normal,Dog,Spayed Female,5 years,Pit Bull,Black/White
+A914253,*Maeve,09/28/2024 09:13:00 AM,Stray,Normal,Dog,Intact Female,2 years,Pit Bull,Black/White
+A914597,*Chip,10/03/2024 01:11:00 PM,Stray,Normal,Dog,Intact Male,1 year,Pit Bull,Black/Brown Brindle
+A914675,Dusty,10/04/2024 05:02:00 PM,Stray,Normal,Dog,Neutered Male,8 years,Pit Bull,Tan
+A912644,*Buddy,10/08/2024 02:01:00 PM,Stray,Normal,Dog,Neutered Male,7 years,Pit Bull,Tan/White
+A914918,Nikki,10/08/2024 08:38:00 PM,Stray,Sick,Dog,Intact Female,8 years,Pit Bull Mix,White/Brown
+A915083,*Darius,10/11/2024 11:49:00 AM,Owner Surrender,Normal,Dog,Intact Male,1 year,Labrador Retriever,Black/White
+A915448,*Lilac,10/16/2024 12:28:00 PM,Owner Surrender,Injured,Dog,Intact Female,6 months,American Staffordshire Terrier Mix,Blue/White
+A915534,*Zero,10/16/2024 07:28:00 PM,Stray,Injured,Dog,Intact Male,5 years,American Pit Bull Terrier,White/Black
+A915975,Bruce,10/22/2024 12:35:00 PM,Stray,Normal,Dog,Intact Male,1 year,Pit Bull,Black
+A916001,*Kanga,10/22/2024 01:54:00 PM,Stray,Normal,Dog,Intact Male,7 months,Carolina Dog/Australian Cattle Dog,Tan/White
+A916038,Grizzly,10/22/2024 03:19:00 PM,Stray,Normal,Dog,Neutered Male,4 years,Labrador Retriever,Black
+A916263,Moyo,10/24/2024 12:28:00 PM,Owner Surrender,Normal,Dog,Intact Male,4 years,Mastiff Mix,Brown Brindle/White
+A916602,Cadence,10/28/2024 03:09:00 PM,Public Assist,Normal,Dog,Spayed Female,2 years,Pit Bull,Brown Brindle/Black
+A916871,*Winter,10/31/2024 11:44:00 AM,Stray,Normal,Dog,Intact Female,1 year,Pit Bull,Blue/White
+A916889,Goliath Jr,10/31/2024 12:32:00 PM,Stray,Sick,Dog,Intact Male,1 year,Pit Bull,Blue/White
+A917011,*Churro,11/02/2024 01:37:00 PM,Stray,Normal,Dog,Neutered Male,5 years,Labrador Retriever Mix,Brown/White
+A917436,*Ellie,11/06/2024 01:12:00 PM,Stray,Injured,Dog,Intact Female,5 years,Pit Bull,Tan
+A911843,Lucy,11/07/2024 02:31:00 PM,Stray,Normal,Dog,Spayed Female,1 year,Catahoula,Brown Merle
+A911842,Luna,11/07/2024 02:33:00 PM,Stray,Normal,Dog,Spayed Female,1 year,German Shepherd,Black/Tan
+A917553,*Elijah,11/07/2024 03:34:00 PM,Stray,Injured,Dog,Intact Male,2 years,Labrador Retriever Mix,Brown
+A917694,*Eddie,11/10/2024 12:55:00 PM,Stray,Injured,Dog,Intact Male,2 years,Pit Bull/Labrador Retriever,Brown
+A917855,*Dandelion,11/13/2024 07:28:00 AM,Stray,Injured,Dog,Intact Male,2 years,Pit Bull,Black
+A917938,Scrappi,11/14/2024 10:09:00 AM,Stray,Normal,Dog,Intact Male,2 years,Pit Bull,White/Brown
+A917960,*Mozart,11/14/2024 12:32:00 PM,Stray,Injured,Cat,Intact Male,1 month,Domestic Shorthair,Black/White
+A917972,Sasha,11/14/2024 01:41:00 PM,Owner Surrender,Normal,Dog,Intact Female,1 year,Labrador Retriever Mix,White/Black
+A918032,*Zen,11/15/2024 12:00:00 PM,Stray,Normal,Cat,Intact Male,4 years,Domestic Shorthair,Brown Tabby
+A918374,*Bartok,11/20/2024 11:30:00 AM,Stray,Normal,Dog,Intact Male,4 years,Staffordshire/Bull Terrier,Black
+A918534,*Lorena,11/22/2024 01:55:00 PM,Stray,Injured,Dog,Intact Female,2 years,Pit Bull,White/Gray
+A918621,Ver,11/24/2024 01:05:00 PM,Owner Surrender,Normal,Dog,Intact Male,3 years,Labrador Retriever Mix,Black/White
+A918649,*Buddy The Elf,11/25/2024 09:41:00 AM,Stray,Normal,Dog,Intact Male,3 years,Pointer/Labrador Retriever,Tan/White
+A918745,*Iced Tea,11/26/2024 11:08:00 AM,Owner Surrender,Normal,Dog,Intact Male,5 years,Pit Bull,Tan
+A918788,*Claus,11/27/2024 07:30:00 AM,Stray,Injured,Cat,Neutered Male,2 years,Domestic Shorthair,Orange Tabby
+A918821,*Becky,11/27/2024 11:52:00 AM,Stray,Normal,Cat,Spayed Female,12 years,Domestic Shorthair,Black/White
+A918915,*Archie,11/30/2024 09:35:00 AM,Stray,Medical,Dog,Intact Male,8 years,Pit Bull,Blue/White
+A919144,*Gala,12/03/2024 02:20:00 PM,Stray,Injured,Dog,Intact Female,7 months,Australian Cattle Dog Mix,Tan/White
+A918070,*Mags,12/03/2024 03:27:00 PM,Stray,Normal,Cat,Intact Female,10 months,Domestic Shorthair,Calico
+A919295,*Teriyaki,12/06/2024 11:55:00 AM,Stray,Injured,Dog,Neutered Male,1 year,Border Collie Mix,Black/White
+A919359,*Blessica,12/07/2024 02:58:00 PM,Owner Surrender,Normal,Dog,Spayed Female,3 years,Boxer Mix,Brown/White
+A919397,*Daisy Mae,12/09/2024 03:49:00 AM,Stray,Normal,Dog,Intact Female,1 year,Redbone Hound Mix,Red
+A918478,*Booboo,12/12/2024 06:29:00 AM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Blue Tabby
+A919614,Blu,12/12/2024 12:31:00 PM,Owner Surrender,Injured,Dog,Intact Male,4 years,Pit Bull,White/Brown
+A919745,Dolly,12/14/2024 05:34:00 PM,Stray,Injured,Dog,Intact Female,2 years,Bull Terrier Mix,White/Black
+A919439,*Sage,12/16/2024 12:47:00 PM,Stray,Normal,Dog,Intact Female,1 year,Pit Bull,Black/White
+A919914,Zell,12/18/2024 02:10:00 PM,Owner Surrender,Normal,Dog,Spayed Female,5 years,Cane Corso/Pit Bull,Blue/White
+A919935,*Comet,12/18/2024 06:54:00 PM,Stray,Normal,Dog,Intact Male,10 years,Bloodhound Mix,Brown/Black
+A920043,Rudy,12/20/2024 01:18:00 PM,Stray,Normal,Dog,Neutered Male,2 years,American Pit Bull Terrier Mix,Tan
+A920091,*Rainbow,12/20/2024 10:15:00 PM,Public Assist,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Brown Brindle/White
+A920158,*Graham Cracker,12/22/2024 12:32:00 PM,Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair,Orange Tabby
+A920275,*Neville,12/26/2024 10:21:00 AM,Public Assist,Normal,Dog,Intact Male,2 years,German Shepherd Mix,Brown/Black
+A920350,*Gary,12/27/2024 10:24:00 AM,Public Assist,Normal,Dog,Intact Male,2 years,American Bulldog Mix,Tan/White
+A920353,*Vera Verto,12/27/2024 11:24:00 AM,Stray,Normal,Dog,Intact Female,6 months,Pit Bull,Brown/White
+A920354,*Ron Weasley,12/27/2024 11:24:00 AM,Stray,Injured,Dog,Intact Male,2 years,Australian Kelpie Mix,Brown
+A920590,*Harper,12/31/2024 01:34:00 PM,Public Assist,Normal,Dog,Intact Female,2 years,Pit Bull,White/Blue
+A920592,*Licorice,12/31/2024 01:34:00 PM,Public Assist,Normal,Dog,Intact Male,2 years,Pit Bull/Chinese Sharpei,Black
+A919575,*Petunia,12/31/2024 01:45:00 PM,Stray,Normal,Dog,Intact Female,1 year,American Bulldog,Brown Brindle/White
+A920675,Bubbles,01/02/2025 01:43:00 PM,Stray,Normal,Dog,Intact Male,2 years,Pit Bull,Red
+A920677,*Maddy,01/02/2025 02:48:00 PM,Stray,Injured,Cat,Intact Female,2 years,Domestic Shorthair,Brown Tabby/White
+A920752,*Muffin,01/03/2025 01:33:00 PM,Owner Surrender,Normal,Dog,Intact Female,2 years,Labrador Retriever,White/Tan
+A917860,*Malone,01/03/2025 01:36:00 PM,Stray,Normal,Dog,Intact Male,3 years,American Staffordshire Terrier/Mastiff,Tan/White
+A920762,*Echo,01/03/2025 03:16:00 PM,Stray,Medical,Cat,Intact Male,3 months,Domestic Shorthair,Orange Tabby
+A920838,*Salinger,01/05/2025 03:26:00 PM,Stray,Injured,Dog,Intact Male,1 year,German Shepherd Mix,Black/White
+A920870,*Jinxy,01/06/2025 11:25:00 AM,Stray,Normal,Dog,Intact Male,1 year,American Pit Bull Terrier,Blue/White
+A920925,Catero,01/06/2025 07:14:00 PM,Public Assist,Normal,Dog,Neutered Male,3 years,Australian Cattle Dog,Tan/Black
+A921065,Rangi,01/09/2025 01:15:00 PM,Owner Surrender,Normal,Dog,Intact Female,1 year,Siberian Husky/Labrador Retriever,Tricolor
+A921069,*Bella Boo,01/09/2025 03:19:00 PM,Stray,Normal,Dog,Intact Female,2 years,Catahoula Mix,Black Brindle/Brown
+A882803,Lady,01/10/2025 05:36:00 PM,Owner Surrender,Injured,Dog,Intact Female,2 years,Black Mouth Cur Mix,Tan/Black
+A921336,Roxy,01/14/2025 03:58:00 PM,Owner Surrender,Normal,Dog,Intact Female,5 years,American Pit Bull Terrier Mix,Tan
+A921416,*Nutmeg,01/15/2025 07:41:00 AM,Stray,Injured,Dog,Intact Female,1 year,Australian Shepherd Mix,Brown/Black
+A921405,Shinzo,01/15/2025 12:45:00 PM,Owner Surrender,Normal,Dog,Neutered Male,4 years,English Pointer,Black/White
+A921288,*Ella,01/16/2025 11:18:00 AM,Stray,Normal,Dog,Intact Female,2 years,Pit Bull,Brown/White
+A921476,*Juno,01/16/2025 02:22:00 PM,Stray,Injured,Dog,Intact Female,2 years,Doberman Pinsch Mix,Black/Brown
+A921491,*Loretta,01/16/2025 05:10:00 PM,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Brown/White
+A921495,*Baloo,01/17/2025 08:23:00 AM,Stray,Injured,Cat,Intact Male,1 year,Domestic Shorthair,Black/White
+A871316,Milo,01/17/2025 11:02:00 AM,Owner Surrender,Normal,Dog,Intact Male,3 years,Siberian Husky,White/Black
+A921556,*Casper,01/17/2025 12:16:00 PM,Stray,Normal,Cat,Intact Female,3 months,Domestic Shorthair,Brown Tabby/White
+A921559,Draco,01/17/2025 12:19:00 PM,Owner Surrender,Normal,Dog,Intact Male,10 months,Labrador Retriever Mix,Black/White
+A921588,*Lola,01/17/2025 02:11:00 PM,Stray,Normal,Dog,Intact Female,2 years,Labrador Retriever Mix,Tan/White
+A921620,Jethro,01/17/2025 11:08:00 PM,Stray,Med Attn,Dog,Neutered Male,7 years,Pit Bull,Black
+A817114,Deebo,01/20/2025 03:04:00 AM,Abandoned,Normal,Dog,Intact Male,6 years,Pit Bull,Blue/White
+A921734,Oslo,01/20/2025 01:12:00 PM,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Tan/White
+A921886,Juniper,01/22/2025 03:04:00 PM,Owner Surrender,Normal,Cat,Spayed Female,7 years,Domestic Shorthair,Blue Tabby
+A921915,*Chestnut,01/23/2025 11:13:00 AM,Public Assist,Sick,Dog,Intact Male,2 years,American Pit Bull Terrier,Tan
+A921857,*Lulu,01/23/2025 03:22:00 PM,Stray,Normal,Dog,Spayed Female,2 years,Labrador Retriever Mix,Black/White
+A921967,*Marco,01/23/2025 04:44:00 PM,Stray,Injured,Cat,Intact Male,2 years,Domestic Shorthair,Brown Tabby/White
+A922269,*Magnum,01/26/2025 02:49:00 PM,Stray,Normal,Dog,Intact Male,2 years,Labrador Retriever Mix,Black/White
+A922530,*Scooby,01/28/2025 10:28:00 AM,Abandoned,Normal,Dog,Neutered Male,2 years,Rhod Ridgeback,Brown/Black
+A922609,Hams,01/28/2025 01:58:00 PM,Stray,Normal,Dog,Intact Male,2 years,Pit Bull,Brown/White
+A876070,Sid,01/28/2025 02:20:00 PM,Stray,Normal,Dog,Intact Male,5 years,Anatol Shepherd,White/Brown
+A922616,*Ophelia,01/28/2025 02:35:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Torbie
+A922703,*Dipper,01/29/2025 12:40:00 PM,Stray,Normal,Dog,Intact Male,2 years,Anatol Shepherd Mix,Tricolor
+A922739,*Bear,01/29/2025 04:36:00 PM,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Brown
+A922851,*Honey Boy,01/30/2025 07:50:00 AM,Stray,Injured,Cat,Intact Male,2 years,Domestic Shorthair,Blue Tabby
+A922776,Toby,01/30/2025 11:10:00 AM,Owner Surrender,Normal,Dog,Neutered Male,1 year,Pit Bull,Blue/White
+A922769,Duke,01/30/2025 12:39:00 PM,Public Assist,Normal,Dog,Intact Male,7 years,Boxer Mix,Black/White
+A922799,*Norma Jean,01/30/2025 01:50:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Orange Tabby
+A922167,,01/30/2025 02:33:00 PM,Stray,Normal,Cat,Intact Male,5 months,Domestic Shorthair,Brown Tabby
+A922850,*Rizzo,01/30/2025 06:15:00 PM,Public Assist,Normal,Dog,Intact Male,3 years,American Bulldog Mix,White/Black
+A922863,*Magnolia,01/31/2025 09:19:00 AM,Stray,Neonatal,Dog,Intact Female,3 years,Chihuahua Shorthair/Beagle,White/Tan
+A923287,Hemi,02/02/2025 01:14:00 PM,Stray,Normal,Dog,Intact Male,5 years,American Bulldog Mix,Brown Brindle/White
+A923251,Tink,02/02/2025 03:10:00 PM,Stray,Injured,Cat,Intact Female,6 months,Scottish Fold,Blue
+A923288,*Daisy,02/02/2025 07:31:00 PM,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Blue/White
+A923320,*Francisco,02/03/2025 11:00:00 AM,Stray,Injured,Dog,Intact Male,2 years,Black Mouth Cur Mix,Brown/Black
+A923423,Sheba,02/03/2025 02:33:00 PM,Abandoned,Normal,Dog,Spayed Female,7 years,Catahoula,Tan
+A923637,Journee,02/05/2025 12:51:00 PM,Public Assist,Normal,Dog,Intact Male,2 years,American Pit Bull Terrier,Black
+A921847,Smokey,02/05/2025 01:48:00 PM,Stray,Normal,Dog,Neutered Male,2 years,German Shepherd Mix,Gold
+A923705,*Timon,02/05/2025 08:18:00 PM,Stray,Normal,Dog,Intact Male,10 months,Doberman Pinsch/German Shepherd,Black/Brown
+A923724,*Summer,02/06/2025 10:30:00 AM,Stray,Normal,Dog,Intact Female,1 year,Carolina Dog Mix,Buff
+A923783,Patches,02/06/2025 03:59:00 PM,Stray,Normal,Cat,Neutered Male,6 years,Domestic Shorthair,White/Black
+A923861,*Topaz,02/07/2025 01:23:00 PM,Stray,Injured,Dog,Intact Female,4 months,Catahoula/German Shepherd,Brown/Black
+A923955,*Butler,02/07/2025 02:31:00 PM,Stray,Normal,Cat,Intact Male,9 months,Domestic Shorthair,Black/White
+A924053,*Halsey,02/07/2025 05:36:00 PM,Abandoned,Normal,Dog,Intact Female,1 year,Border Collie/Labrador Retriever,Black/White
+A924105,*Queen Iduna,02/08/2025 12:23:00 PM,Owner Surrender,Normal,Dog,Intact Female,1 year,Anatol Shepherd Mix,White/Brown
+A867389,Mini,02/09/2025 12:55:00 PM,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Tan/White
+A924423,*Boo Bear,02/10/2025 03:30:00 PM,Stray,Normal,Cat,Intact Male,4 years,Domestic Shorthair,Black
+A924429,*Schnucki,02/10/2025 04:14:00 PM,Stray,Normal,Dog,Intact Male,10 months,Pit Bull Mix,White/Brown
+A924552,*Lana,02/12/2025 10:46:00 AM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,White
+A924544,Oliver,02/12/2025 11:14:00 AM,Stray,Normal,Dog,Intact Male,3 years,American Staffordshire Terrier Mix,White/Blue
+A924650,*Olive Oyl,02/13/2025 09:51:00 AM,Public Assist,Sick,Dog,Intact Female,9 months,Great Dane,Black/White
+A924652,*Thurgood,02/13/2025 11:47:00 AM,Public Assist,Normal,Dog,Intact Male,2 years,Pit Bull,Brown/White
+A924775,Squish,02/14/2025 03:23:00 PM,Stray,Medical,Dog,Intact Female,4 years,Pit Bull,White/Tan
+A924776,*Champ,02/14/2025 03:23:00 PM,Stray,Medical,Dog,Intact Male,3 years,Pit Bull,Brown/White
+A924789,*Chip,02/15/2025 07:29:00 AM,Stray,Normal,Dog,Intact Male,2 years,Labrador Retriever,White/Brown
+A924796,*Jupiter,02/15/2025 08:25:00 AM,Stray,Injured,Cat,Intact Male,8 months,Domestic Shorthair,Brown Tabby/White
+A924851,Kane,02/16/2025 12:13:00 PM,Owner Surrender,Normal,Dog,Neutered Male,4 years,American Staffordshire Terrier,White
+A924955,*Piggle,02/17/2025 07:15:00 PM,Abandoned,Normal,Dog,Intact Male,3 years,Pit Bull,Blue
+A924980,*Trish,02/18/2025 11:10:00 AM,Stray,Normal,Dog,Intact Female,2 years,Labrador Retriever,Black/White
+A924994,*Lola,02/18/2025 11:54:00 AM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Brown Tabby
+A925027,*Chance,02/18/2025 04:30:00 PM,Stray,Injured,Dog,Intact Male,3 years,Chihuahua Shorthair,Red
+A925063,*Tofu,02/19/2025 11:52:00 AM,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Blue/White
+A925072,*Razzle Dazzle,02/19/2025 12:38:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Brown Tabby
+A924960,*Goose,02/20/2025 01:17:00 PM,Stray,Normal,Dog,Neutered Male,2 years,Pit Bull,Brown/White
+A924608,*Stella,02/20/2025 03:01:00 PM,Stray,Normal,Dog,Intact Female,1 year,Pit Bull,Brown Brindle/White
+A925194,Zoey,02/21/2025 12:33:00 PM,Stray,Injured,Dog,Intact Female,2 years,Cairn Terrier Mix,Tan
+A925219,*Rosemary,02/21/2025 03:42:00 PM,Stray,Injured,Dog,Spayed Female,5 months,Labrador Retriever Mix,Black/White
+A925242,*Hannah,02/22/2025 07:01:00 AM,Stray,Sick,Cat,Intact Female,1 year,Domestic Medium Hair,Black
+A925360,*Ukulele,02/23/2025 07:17:00 AM,Stray,Injured,Cat,Intact Male,2 years,Domestic Shorthair,Brown Tabby/White
+A925308,*Raven,02/23/2025 11:48:00 AM,Stray,Normal,Cat,Neutered Male,2 years,Domestic Shorthair,Black
+A925407,*Cricket,02/24/2025 10:48:00 AM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Black
+A925402,Galleta,02/24/2025 11:18:00 AM,Owner Surrender,Normal,Dog,Intact Female,1 year,Labrador Retriever Mix,Brown
+A925404,*Lainey,02/24/2025 11:21:00 AM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Brown Tabby
+A925463,*Dole Whip,02/24/2025 03:37:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Brown Tabby
+A924547,*Stanley,02/24/2025 03:51:00 PM,Stray,Normal,Dog,Intact Male,10 months,Black Mouth Cur,Brown
+A925529,Hoku,02/25/2025 12:10:00 PM,Stray,Med Attn,Dog,Spayed Female,1 year,Labrador Retriever/Pit Bull,Black/White
+A925497,*Vivian,02/25/2025 12:21:00 PM,Stray,Normal,Dog,Intact Female,1 year,Labrador Retriever Mix,Black/White
+A925514,*Lady Jessica,02/25/2025 12:47:00 PM,Owner Surrender,Normal,Dog,Intact Female,2 years,Doberman Pinsch Mix,Black/Tan
+A925523,*Spruce,02/25/2025 02:01:00 PM,Owner Surrender,Normal,Dog,Intact Male,2 years,Labrador Retriever Mix,Chocolate
+A925554,*Missy Elliott,02/26/2025 09:10:00 AM,Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A925556,*Cardi B,02/26/2025 09:10:00 AM,Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A925559,*Benny,02/26/2025 09:18:00 AM,Stray,Normal,Dog,Intact Male,10 months,Pit Bull Mix,Black
+A925577,Arjuna,02/26/2025 12:11:00 PM,Owner Surrender,Normal,Cat,Neutered Male,12 years,Domestic Shorthair,Orange Tabby/White
+A925612,*Dudley,02/26/2025 04:58:00 PM,Stray,Normal,Dog,Neutered Male,2 years,German Shepherd,Brown/Black
+A925626,Dusty Rhodes,02/27/2025 08:50:00 AM,Stray,Sick,Dog,Intact Male,2 years,Pit Bull,Blue/White
+A925658,*Jojo,02/27/2025 12:30:00 PM,Stray,Normal,Dog,Intact Male,5 months,Labrador Retriever Mix,Black
+A925689,Yola,02/27/2025 04:39:00 PM,Public Assist,Normal,Dog,Spayed Female,2 years,Pit Bull/Labrador Retriever,White/Black
+A925700,*Finn,02/27/2025 09:27:00 PM,Owner Surrender,Injured,Dog,Intact Male,9 months,Labrador Retriever Mix,Tan
+A925718,*Boo,02/28/2025 11:18:00 AM,Stray,Normal,Cat,Intact Male,9 months,Domestic Shorthair,Brown Tabby
+A925789,*Patrick,03/01/2025 08:40:00 AM,Stray,Injured,Dog,Intact Male,1 month,Belgian Malinois Mix,Brown
+A922034,*Olaf,03/01/2025 09:30:00 AM,Stray,Normal,Dog,Intact Male,1 year,Labrador Retriever,White
+A921332,Don,03/01/2025 02:06:00 PM,Stray,Normal,Cat,Neutered Male,2 years,Domestic Shorthair,Brown Tabby/White
+A925805,,03/01/2025 02:27:00 PM,Stray,Normal,Cat,Intact Male,2 days,Domestic Shorthair,Lynx Point
+A925806,,03/01/2025 02:27:00 PM,Stray,Normal,Cat,Intact Male,2 days,Domestic Shorthair,Brown Tabby
+A925807,,03/01/2025 02:27:00 PM,Stray,Normal,Cat,Intact Female,2 days,Domestic Shorthair,Lynx Point
+A925808,,03/01/2025 02:27:00 PM,Stray,Normal,Cat,Intact Male,2 days,Domestic Shorthair,Lynx Point
+A925809,,03/01/2025 02:27:00 PM,Stray,Normal,Cat,Intact Male,2 days,Domestic Shorthair,Lynx Point
+A925810,,03/01/2025 02:27:00 PM,Stray,Normal,Cat,Intact Female,2 days,Domestic Shorthair,Lynx Point
+A925838,*Ralphie,03/02/2025 10:45:00 AM,Owner Surrender,Normal,Dog,Neutered Male,3 years,Doberman Pinsch/Black/Tan Hound,Black/Brown
+A925837,*Opal,03/02/2025 11:23:00 AM,Stray,Normal,Dog,Intact Female,9 months,American Pit Bull Terrier Mix,Black Brindle/White
+A925857,*Lady Wigglebottom,03/02/2025 03:23:00 PM,Stray,Injured,Dog,Intact Female,1 year,Chihuahua Shorthair Mix,Black/Brown
+A925921,*Arun,03/02/2025 06:23:00 PM,Stray,Injured,Dog,Intact Male,3 years,Chihuahua Shorthair Mix,Tan
+A877280,Lacy,03/03/2025 07:24:00 AM,Public Assist,Normal,Dog,Spayed Female,2 years,American Pit Bull Terrier Mix,Tan/White
+A925950,*Chico,03/03/2025 10:22:00 AM,Stray,Normal,Dog,Intact Male,3 weeks,Labrador Retriever Mix,Black/White
+A925952,*Monkey,03/03/2025 10:22:00 AM,Stray,Normal,Dog,Intact Male,3 weeks,Labrador Retriever Mix,Black/White
+A925953,*Riot,03/03/2025 10:22:00 AM,Stray,Normal,Dog,Intact Male,3 weeks,Labrador Retriever Mix,Brown Brindle/White
+A925940,Pirata,03/03/2025 10:48:00 AM,Owner Surrender,Normal,Dog,Intact Male,1 year,German Shepherd Mix,Brown/Black
+A925966,Taz,03/03/2025 11:23:00 AM,Owner Surrender,Sick,Dog,Intact Male,2 years,American Pit Bull Terrier,Blue
+A925006,King,03/04/2025 03:39:00 PM,Stray,Normal,Dog,Intact Male,6 months,American Pit Bull Terrier,Tan
+A926060,*Buddy,03/05/2025 12:33:00 AM,Abandoned,Normal,Dog,Intact Male,2 months,Labrador Retriever Mix,Brown/White
+A921264,Murphy,03/05/2025 10:50:00 AM,Owner Surrender,Normal,Dog,Intact Male,2 years,Rottweiler,Black/Brown
+A926079,*Orlando,03/05/2025 01:05:00 PM,Stray,Normal,Dog,Intact Male,9 months,Labrador Retriever Mix,Black/White
+A925656,Cookie,03/05/2025 02:18:00 PM,Stray,Normal,Dog,Spayed Female,6 months,Labrador Retriever/German Shepherd,Brown/White
+A926125,Bluie,03/06/2025 09:57:00 AM,Stray,Injured,Dog,Spayed Female,5 years,Alaskan Husky,Black/White
+A926147,Melon,03/06/2025 11:23:00 AM,Owner Surrender,Normal,Cat,Intact Male,2 years,British Shorthair,Apricot/White
+A926146,*Brindle Bob,03/06/2025 11:35:00 AM,Owner Surrender,Normal,Dog,Intact Male,5 months,Labrador Retriever Mix,Brown Brindle/White
+A926155,*Malik,03/06/2025 12:35:00 PM,Stray,Medical,Cat,Intact Male,6 years,Domestic Shorthair,Orange Tabby/White
+A926159,Birdie,03/06/2025 01:46:00 PM,Stray,Normal,Dog,Spayed Female,2 years,Siberian Husky,Brown/White
+A926160,Hera,03/06/2025 01:46:00 PM,Stray,Normal,Dog,Spayed Female,2 years,Siberian Husky,White/Brown
+A926173,*Donnie,03/07/2025 01:36:00 AM,Stray,Normal,Dog,Intact Male,2 years,Pit Bull/German Shepherd,Brown/White
+A926232,,03/07/2025 05:04:00 PM,Stray,Normal,Other,Unknown,1 year,Squirrel,Brown
+A926238,*Maple,03/07/2025 07:00:00 PM,Stray,Injured,Dog,Intact Male,2 years,American Pit Bull Terrier,Brown/White
+A926240,*Benny,03/07/2025 07:09:00 PM,Stray,Normal,Dog,Intact Female,5 years,Doberman Pinsch,Black/Brown
+A926243,*Phoenix,03/08/2025 12:57:00 AM,Public Assist,Injured,Dog,Intact Male,2 years,American Pit Bull Terrier,White/Black
+A926233,*Cookie,03/08/2025 08:43:00 AM,Stray,Injured,Dog,Intact Female,1 year,Boxer Mix,Brown Brindle/White
+A926266,Saturn,03/08/2025 12:24:00 PM,Stray,Normal,Cat,Neutered Male,3 years,Domestic Shorthair,Brown Tabby
+A926305,*Lucy,03/09/2025 11:00:00 AM,Stray,Injured,Dog,Intact Female,2 years,Cocker Spaniel/Beagle,Tan/White
+A926308,*Queso,03/09/2025 12:35:00 PM,Stray,Injured,Cat,Intact Male,2 years,Domestic Shorthair,Orange Tabby
+A924808,*Handsome,03/09/2025 02:26:00 PM,Owner Surrender,Injured,Dog,Intact Male,7 years,Dachshund/Chihuahua Shorthair,Tan
+A926329,,03/09/2025 06:01:00 PM,Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A926330,,03/09/2025 06:01:00 PM,Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A926331,,03/09/2025 06:01:00 PM,Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A926332,,03/09/2025 06:01:00 PM,Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A926333,,03/09/2025 06:01:00 PM,Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A926334,,03/09/2025 06:01:00 PM,Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A926348,*Coral,03/10/2025 10:50:00 AM,Stray,Normal,Dog,Intact Female,2 years,Pit Bull,Black Brindle
+A926365,Kimchi,03/10/2025 11:51:00 AM,Stray,Normal,Dog,Intact Female,5 years,American Pit Bull Terrier,Brown Brindle
+A926372,*Little Bear,03/10/2025 12:38:00 PM,Stray,Neonatal,Cat,Intact Male,1 day,Domestic Shorthair,Black
+A926392,*Armstrong,03/10/2025 01:09:00 PM,Abandoned,Normal,Dog,Intact Male,2 years,Pit Bull,Tan/White
+A926388,*Sprinkles,03/10/2025 02:44:00 PM,Abandoned,Normal,Dog,Intact Female,2 years,English Pointer Mix,White/Black
+A926393,Oreo,03/10/2025 03:11:00 PM,Owner Surrender,Normal,Other,Intact Male,5 years,Guinea Pig,Black/White
+A926394,Pumpkin,03/10/2025 03:11:00 PM,Owner Surrender,Normal,Other,Intact Male,5 years,Guinea Pig,Tan
+A926466,,03/11/2025 12:55:00 PM,Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby/White
+A926467,,03/11/2025 12:55:00 PM,Stray,Neonatal,Cat,Intact Female,0 years,Domestic Medium Hair,Blue Tabby/White
+A926468,,03/11/2025 12:55:00 PM,Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby/White
+A926481,*Mon Cheri,03/11/2025 02:15:00 PM,Stray,Normal,Cat,Intact Female,5 months,Domestic Shorthair,Brown Tabby
+A926497,Goku,03/11/2025 04:25:00 PM,Stray,Normal,Dog,Intact Male,5 years,Old English Bulldog,Blue
+A926519,*Kevin,03/12/2025 09:56:00 AM,Owner Surrender,Sick,Dog,Intact Male,4 years,Pit Bull,Blue/White
+A926523,*Ravi,03/12/2025 11:01:00 AM,Stray,Injured,Dog,Intact Male,2 years,Pointer Mix,White/Tan
+A925980,*Buster,03/12/2025 01:30:00 PM,Stray,Normal,Dog,Intact Male,4 years,American Pit Bull Terrier,White/Black
+A926498,*Sawyer,03/12/2025 02:04:00 PM,Stray,Normal,Dog,Intact Male,10 years,Chihuahua Shorthair,Tan
+A926583,*Ali,03/13/2025 11:23:00 AM,Owner Surrender,Normal,Dog,Intact Female,3 weeks,Mastiff Mix,Brown Brindle/White
+A926591,*Brindle Bridget,03/13/2025 11:41:00 AM,Owner Surrender,Normal,Dog,Intact Female,5 months,Labrador Retriever Mix,Brown Brindle/White
+A926257,*Rosie,03/13/2025 03:36:00 PM,Stray,Normal,Dog,Intact Female,1 year,American Pit Bull Terrier,White/Brown
+A926684,*Henry,03/14/2025 05:26:00 PM,Stray,Normal,Dog,Intact Male,6 years,Australian Cattle Dog,White/Black
+A926719,*Honey,03/15/2025 01:26:00 PM,Stray,Normal,Cat,Spayed Female,1 year,Domestic Shorthair,Tortie
+A926743,*Ladybug,03/16/2025 08:34:00 AM,Stray,Injured,Dog,Intact Female,1 year,Australian Cattle Dog,Blue Tick
+A926765,Moo,03/16/2025 04:58:00 PM,Public Assist,Normal,Dog,Neutered Male,2 years,American Pit Bull Terrier,White/Brown
+A926788,*Zachary,03/17/2025 11:14:00 AM,Stray,Normal,Cat,Intact Male,4 years,Domestic Medium Hair,Black Smoke
+A926804,Suzy,03/17/2025 12:07:00 PM,Owner Surrender,Normal,Cat,Spayed Female,6 years,Domestic Shorthair,Brown Tabby
+A926817,Sheba,03/17/2025 02:03:00 PM,Owner Surrender,Normal,Dog,Spayed Female,6 years,Labrador Retriever,Black/White
+A926837,*Azul,03/18/2025 07:25:00 AM,Stray,Injured,Dog,Intact Male,1 year,German Shepherd,Black/Brown
+A926843,*Lizard,03/18/2025 10:05:00 AM,Public Assist,Normal,Dog,Neutered Male,2 years,American Staffordshire Terrier,White/Gray
+A926845,*Chip,03/18/2025 11:03:00 AM,Stray,Normal,Cat,Neutered Male,3 years,Domestic Shorthair,Orange Tabby
+A926850,*Cheaddy,03/18/2025 11:33:00 AM,Stray,Injured,Dog,Intact Male,2 years,Pit Bull,Black/White
+A926867,*Annie,03/18/2025 01:26:00 PM,Public Assist,Normal,Dog,Intact Female,3 years,Pit Bull,White/Tan
+A925148,*Baby Shark,03/18/2025 02:16:00 PM,Stray,Normal,Dog,Intact Male,1 year,American Pit Bull Terrier,White
+A926883,*Mimi,03/18/2025 03:33:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Black
+A926884,*Naomi,03/18/2025 04:07:00 PM,Stray,Normal,Cat,Spayed Female,5 years,Domestic Shorthair,Orange Tabby
+A926890,*Pippa,03/18/2025 04:43:00 PM,Stray,Normal,Dog,Intact Female,2 years,Golden Retriever/Pit Bull,Red
+A926891,*Potato,03/18/2025 04:43:00 PM,Stray,Normal,Dog,Intact Male,6 days,Rottweiler Mix,Black/Tan
+A926892,*Peaches,03/18/2025 04:43:00 PM,Stray,Normal,Dog,Intact Female,6 days,Rottweiler Mix,Black/Tan
+A926893,*Pumpkin,03/18/2025 04:43:00 PM,Stray,Normal,Dog,Intact Male,6 days,Rottweiler Mix,Sable
+A926894,*Pepper,03/18/2025 04:43:00 PM,Stray,Normal,Dog,Intact Male,6 days,Rottweiler Mix,Black/White
+A926895,*Poppy,03/18/2025 04:43:00 PM,Stray,Normal,Dog,Intact Female,6 days,Rottweiler Mix,Black/Tan
+A926896,*Peanut,03/18/2025 04:43:00 PM,Stray,Normal,Dog,Intact Female,6 days,Rottweiler Mix,Sable
+A926958,Max,03/19/2025 12:12:00 PM,Owner Surrender,Normal,Cat,Intact Male,3 years,Domestic Shorthair,Brown Tabby
+A926956,Foxy,03/19/2025 12:19:00 PM,Stray,Injured,Dog,Intact Female,3 years,Pit Bull Mix,Brown/White
+A926968,*Ernie,03/19/2025 01:53:00 PM,Stray,Normal,Dog,Intact Male,7 months,Great Pyrenees Mix,Tan/White
+A926971,*Bert,03/19/2025 01:53:00 PM,Stray,Normal,Dog,Intact Male,7 months,Great Pyrenees Mix,Tan/White
+A926982,,03/19/2025 03:09:00 PM,Owner Surrender,Neonatal,Cat,Intact Female,3 weeks,Domestic Shorthair,Tortie
+A926983,,03/19/2025 03:09:00 PM,Owner Surrender,Neonatal,Cat,Intact Female,3 weeks,Domestic Shorthair,Calico
+A926984,,03/19/2025 03:09:00 PM,Owner Surrender,Neonatal,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby
+A926992,Billy Girl,03/19/2025 05:32:00 PM,Stray,Normal,Dog,Spayed Female,3 years,Labrador Retriever,Black
+A926994,Fluffy,03/19/2025 06:12:00 PM,Stray,Injured,Cat,Intact Male,11 years,Domestic Medium Hair,Orange Tabby
+A926999,*Mercutio,03/19/2025 08:42:00 PM,Stray,Normal,Dog,Intact Male,3 years,Pit Bull,Blue
+A927017,*Ophelia,03/20/2025 11:02:00 AM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,White/Black
+A927105,,03/20/2025 11:02:00 AM,Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,White/Black
+A927106,,03/20/2025 11:02:00 AM,Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Black
+A927107,,03/20/2025 11:02:00 AM,Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Black
+A927108,,03/20/2025 11:02:00 AM,Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Black
+A927033,Sage,03/20/2025 12:31:00 PM,Stray,Normal,Cat,Spayed Female,2 years,Domestic Shorthair,Blue Tabby
+A926802,*Sunshine,03/20/2025 01:25:00 PM,Stray,Normal,Dog,Spayed Female,6 years,Border Collie,White/Brown
+A927051,*Blackbeard,03/20/2025 08:07:00 PM,Stray,Injured,Cat,Intact Male,2 years,Domestic Medium Hair,Black
+A927081,Mellow,03/21/2025 02:36:00 PM,Stray,Injured,Cat,Neutered Male,7 months,Domestic Shorthair,Black
+A927091,Maisy,03/21/2025 04:18:00 PM,Owner Surrender,Normal,Dog,Spayed Female,4 years,Labrador Retriever/American Pit Bull Terrier,Fawn
+A927110,Minnie,03/22/2025 09:55:00 AM,Stray,Injured,Cat,Intact Female,9 months,Domestic Shorthair,Orange Tabby
+A927114,Pop,03/22/2025 11:51:00 AM,Stray,Sick,Cat,Neutered Male,5 years,Domestic Shorthair,Black/White
+A926725,*Biscuits,03/23/2025 11:24:00 AM,Stray,Normal,Cat,Intact Male,2 years,Domestic Shorthair,Orange Tabby/White
+A927156,Lola,03/23/2025 11:41:00 AM,Owner Surrender,Normal,Dog,Intact Female,1 year,Border Collie/Australian Cattle Dog,White/Black
+A927157,Daisy,03/23/2025 11:41:00 AM,Owner Surrender,Normal,Dog,Intact Female,1 year,Border Collie/Australian Cattle Dog,White/Black
+A927204,*Trixie,03/24/2025 11:40:00 AM,Stray,Injured,Dog,Intact Female,9 months,Miniature Schnauzer/Toy Poodle,Black
+A927250,*Flower,03/24/2025 02:24:00 PM,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Brown
+A927248,Egypt,03/24/2025 02:29:00 PM,Stray,Injured,Dog,Intact Female,2 years,Pit Bull,White/Black
+A927254,*Brian,03/24/2025 02:41:00 PM,Stray,Normal,Dog,Intact Male,2 years,Pit Bull,Black/White
+A925419,*Brewster,03/25/2025 11:13:00 AM,Stray,Normal,Dog,Intact Male,1 year,German Shepherd,Black/Brown
+A927304,*Lola,03/25/2025 11:25:00 AM,Owner Surrender,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Brown Tabby
+A927307,*Beth,03/25/2025 12:39:00 PM,Stray,Normal,Dog,Intact Female,2 years,Cardigan Welsh Corgi,Black/Brown
+A927326,Leon,03/25/2025 05:22:00 PM,Stray,Normal,Dog,Neutered Male,3 years,Pit Bull,Brown Brindle/White
+A927383,Roxy,03/26/2025 11:58:00 AM,Owner Surrender,Normal,Dog,Intact Female,3 years,Pit Bull,White/Black
+A927372,*Bubbles,03/26/2025 12:13:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Brown Tabby/White
+A927373,,03/26/2025 12:13:00 PM,Stray,Normal,Cat,Intact Male,4 days,Domestic Shorthair,Brown Tabby/White
+A927374,,03/26/2025 12:13:00 PM,Stray,Normal,Cat,Intact Male,4 days,Domestic Shorthair,Black Smoke
+A927375,,03/26/2025 12:13:00 PM,Stray,Normal,Cat,Intact Female,4 days,Domestic Shorthair,Black
+A927376,,03/26/2025 12:13:00 PM,Stray,Normal,Cat,Intact Female,4 days,Domestic Shorthair,Black/White
+A927377,,03/26/2025 12:13:00 PM,Stray,Normal,Cat,Intact Male,4 days,Domestic Shorthair,Brown Tabby/White
+A927386,,03/26/2025 01:23:00 PM,Stray,Neonatal,Cat,Intact Female,2 weeks,Russian Blue,Blue
+A927387,,03/26/2025 01:23:00 PM,Stray,Neonatal,Cat,Intact Female,2 weeks,Russian Blue,Blue
+A927404,*Sunita,03/26/2025 03:06:00 PM,Stray,Medical,Dog,Intact Female,5 months,Great Pyrenees,White
+A927395,*Koda,03/26/2025 04:14:00 PM,Stray,Injured,Dog,Intact Female,1 year,Siberian Husky Mix,Black/Brown
+A927406,*Mazow,03/27/2025 07:20:00 AM,Stray,Injured,Cat,Neutered Male,2 years,Domestic Shorthair,Orange Tabby
+A927438,*Potato,03/27/2025 11:47:00 AM,Stray,Normal,Dog,Intact Female,4 weeks,Siberian Husky,Tricolor
+A927439,*Asparagus,03/27/2025 11:47:00 AM,Stray,Normal,Dog,Intact Female,4 weeks,Siberian Husky,Black/Brown
+A927445,*Felix,03/27/2025 11:57:00 AM,Stray,Normal,Cat,Intact Male,5 months,Domestic Shorthair,Blue Tabby
+A927453,Poppi,03/27/2025 01:28:00 PM,Owner Surrender,Normal,Dog,Intact Female,2 years,Chihuahua Shorthair,Brown
+A927464,,03/27/2025 05:37:00 PM,Stray,Normal,Cat,Intact Male,1 day,Domestic Shorthair,Brown Tabby
+A927469,Gigi,03/28/2025 12:44:00 AM,Public Assist,Normal,Dog,Intact Female,1 year,French Bulldog/Pit Bull,Blue/White
+A927480,*Deebs,03/28/2025 10:33:00 AM,Public Assist,Normal,Dog,Intact Male,4 years,American Staffordshire Terrier,Black Brindle/White
+A927484,*Sargeant,03/28/2025 10:56:00 AM,Stray,Normal,Dog,Intact Male,2 years,German Shepherd,Tan/Black
+A927153,*Daisy,03/28/2025 11:34:00 AM,Stray,Medical,Dog,Spayed Female,2 years,Dachshund Mix,Black/Brown
+A927493,*Eliza,03/28/2025 12:31:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Blue/White
+A927494,*Ariana,03/28/2025 12:31:00 PM,Stray,Normal,Cat,Intact Female,9 months,Domestic Shorthair,Blue Tabby
+A927525,*Farrah,03/29/2025 10:10:00 AM,Stray,Normal,Dog,Intact Female,7 months,Doberman Pinsch Mix,Black/Tan
+A927385,*Bonnie Mae,03/29/2025 01:38:00 PM,Owner Surrender,Normal,Cat,Spayed Female,12 years,Domestic Shorthair,Black
+A927551,*Gracie,03/29/2025 05:22:00 PM,Stray,Normal,Dog,Intact Female,1 year,Doberman Pinsch,Black/Brown
+A927572,*Chili Pepper,03/30/2025 11:25:00 AM,Stray,Normal,Dog,Intact Female,3 years,German Shepherd Mix,Brown
+A925877,Benji,03/30/2025 01:36:00 PM,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Tan/Tricolor
+A927597,*Trapper,03/30/2025 05:47:00 PM,Owner Surrender,Injured,Dog,Intact Male,3 months,Labrador Retriever Mix,Black/White
+A927619,*Charming,03/31/2025 10:35:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Cream Tabby
+A927620,*Darling,03/31/2025 10:35:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Cream Tabby
+A927621,*Adorable,03/31/2025 10:35:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Cream Tabby
+A927622,*Cuddles,03/31/2025 10:35:00 AM,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair,Brown Tabby
+A927623,*Snuggles,03/31/2025 10:35:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Siamese Mix,Flame Point
+A924273,*Gerbil,03/31/2025 10:58:00 AM,Stray,Normal,Dog,Neutered Male,1 year,Labrador Retriever/Beagle,White
+A927626,*Malcolm,03/31/2025 11:16:00 AM,Stray,Sick,Cat,Intact Male,2 years,Domestic Shorthair,Brown Tabby/White
+A927639,*Feta,03/31/2025 12:24:00 PM,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair,White/Brown Tabby
+A927640,*Cheddar,03/31/2025 12:24:00 PM,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby/White
+A927641,*Brie,03/31/2025 12:24:00 PM,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair,Black/White
+A927642,*Mozzarella,03/31/2025 12:24:00 PM,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby
+A927645,Thor,03/31/2025 12:56:00 PM,Stray,Normal,Dog,Neutered Male,2 years,Pit Bull Mix,Blue/White
+A782677,Major Lilly,03/31/2025 02:11:00 PM,Public Assist,Injured,Dog,Intact Male,6 years,Belgian Malinois,Brown/Black
+A927676,*Dasher,03/31/2025 03:18:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Brown Tabby
+A927679,*Pizazz,03/31/2025 04:01:00 PM,Stray,Normal,Cat,Intact Male,4 years,Domestic Shorthair,Black/White
+A927684,Scout,03/31/2025 04:13:00 PM,Owner Surrender,Normal,Dog,Neutered Male,3 years,Plott Hound Mix,Brown Brindle/White
+A927694,Sapphire,03/31/2025 07:10:00 PM,Owner Surrender,Normal,Dog,Spayed Female,2 years,Pit Bull,White/Tan
+A927457,Sara,04/01/2025 11:03:00 AM,Owner Surrender,Normal,Cat,Spayed Female,11 months,Domestic Shorthair,Torbie
+A927722,*Vaeda,04/01/2025 12:14:00 PM,Stray,Injured,Dog,Intact Female,6 years,Pit Bull,Tan/White
+A927729,*Linda,04/01/2025 01:18:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Black
+A927751,*Baby Billy,04/01/2025 05:04:00 PM,Stray,Normal,Cat,Intact Male,2 years,Domestic Shorthair,Brown Tabby
+A927695,*Calvin,04/01/2025 07:32:00 PM,Stray,Med Attn,Dog,Intact Male,4 months,German Shepherd Mix,Brown/Black
+A927795,*Olive,04/02/2025 11:38:00 AM,Stray,Medical,Cat,Intact Female,1 year,Domestic Shorthair,Black
+A927793,Bagheera,04/02/2025 11:41:00 AM,Stray,Normal,Dog,Intact Female,8 years,German Shepherd,Black/Brown
+A927797,*Joey,04/02/2025 12:10:00 PM,Stray,Normal,Cat,Intact Male,2 years,Domestic Shorthair,White/Cream Tabby
+A927807,*Julia,04/02/2025 12:45:00 PM,Stray,Normal,Cat,Intact Female,5 months,Domestic Shorthair,Cream Tabby
+A927808,*Caesar,04/02/2025 12:45:00 PM,Stray,Normal,Cat,Intact Male,5 months,Domestic Shorthair,Orange Tabby
+A927817,*Jasper,04/02/2025 01:42:00 PM,Stray,Medical,Dog,Intact Male,5 years,Pit Bull Mix,Blue/White
+A927836,Tati,04/02/2025 03:21:00 PM,Stray,Normal,Cat,Spayed Female,2 years,Domestic Shorthair,Brown Tabby/White
+A927835,*Clover,04/02/2025 03:28:00 PM,Stray,Injured,Cat,Intact Female,1 year,Domestic Shorthair,Calico
+A927853,*Blossom,04/02/2025 06:46:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Blue
+A927854,,04/02/2025 06:46:00 PM,Stray,Normal,Cat,Intact Male,4 days,Domestic Shorthair,Brown Tabby
+A927855,,04/02/2025 06:46:00 PM,Stray,Normal,Cat,Intact Male,4 days,Domestic Shorthair,Blue Tabby
+A927857,,04/02/2025 06:46:00 PM,Stray,Normal,Cat,Intact Male,4 days,Domestic Shorthair,Brown Tabby
+A927858,,04/02/2025 06:46:00 PM,Stray,Normal,Cat,Intact Female,4 days,Domestic Shorthair,Brown Tabby
+A927859,,04/02/2025 06:46:00 PM,Stray,Normal,Cat,Intact Male,4 days,Domestic Shorthair,Brown Tabby
+A927860,*Alfred,04/02/2025 08:12:00 PM,Stray,Injured,Dog,Intact Male,11 months,German Shepherd/Collie Smooth,Brown
+A927864,*Chipperoni,04/02/2025 11:15:00 PM,Stray,Medical,Dog,Intact Male,2 years,American Staffordshire Terrier Mix,Brown
+A927877,*Patty Melt,04/03/2025 10:14:00 AM,Stray,Normal,Dog,Neutered Male,2 years,Labrador Retriever/Plott Hound,Brown
+A927887,*Chai,04/03/2025 10:59:00 AM,Stray,Neonatal,Cat,Intact Female,3 weeks,Domestic Shorthair,Torbie
+A927880,*Nova,04/03/2025 11:20:00 AM,Stray,Normal,Dog,Intact Female,4 months,Anatol Shepherd Mix,White
+A927894,,04/03/2025 12:29:00 PM,Stray,Injured,Cat,Intact Female,5 months,Domestic Shorthair,Blue Tabby/White
+A926825,*Huey,04/03/2025 02:07:00 PM,Stray,Normal,Cat,Intact Male,2 years,Domestic Shorthair,Brown Tabby
+A927924,*Fondue,04/03/2025 09:49:00 PM,Stray,Normal,Dog,Neutered Male,4 years,Australian Shepherd Mix,Tricolor
+A927925,*Stella,04/03/2025 09:49:00 PM,Stray,Normal,Dog,Intact Female,2 years,Border Collie/Labrador Retriever,Black/White
+A927926,*Bugsy,04/04/2025 06:48:00 AM,Stray,Sick,Dog,Intact Male,4 years,Pit Bull/Boxer,Brown
+A927956,*Bonnie,04/04/2025 12:43:00 PM,Stray,Medical,Dog,Intact Female,4 years,Pit Bull,Blue/White
+A927963,*Birdie,04/04/2025 01:48:00 PM,Owner Surrender,Neonatal,Cat,Intact Female,3 weeks,Domestic Medium Hair,Black Tabby
+A927964,*Browney,04/04/2025 01:48:00 PM,Owner Surrender,Neonatal,Cat,Intact Female,3 weeks,Domestic Medium Hair,Brown Tabby
+A927965,*Bluey,04/04/2025 01:48:00 PM,Owner Surrender,Neonatal,Cat,Intact Male,3 weeks,Domestic Medium Hair,Black Smoke
+A927966,*Gerdie,04/04/2025 01:48:00 PM,Owner Surrender,Neonatal,Cat,Intact Female,3 weeks,Domestic Medium Hair,Black
+A927968,*Guppy,04/04/2025 02:51:00 PM,Stray,Normal,Dog,Intact Male,4 years,Pit Bull,Blue/White
+A927977,*Saffron,04/05/2025 08:15:00 AM,Stray,Injured,Cat,Intact Female,3 years,Domestic Shorthair,Orange
+A927978,*Beans,04/05/2025 08:15:00 AM,Stray,Neonatal,Cat,Intact Female,3 weeks,Domestic Shorthair,Torbie
+A927987,Max,04/05/2025 11:06:00 AM,Owner Surrender,Normal,Dog,Intact Male,7 months,Australian Cattle Dog,White/Black
+A928004,Zeus H5,04/05/2025 03:51:00 PM,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Brown Brindle
+A928016,*Florence,04/05/2025 09:27:00 PM,Stray,Injured,Cat,Intact Female,3 years,Domestic Shorthair,Torbie/White
+A928027,*Elvie,04/06/2025 12:14:00 PM,Public Assist,Normal,Dog,Spayed Female,2 years,Australian Cattle Dog/Alaskan Husky,White
+A928043,*Tugboat,04/06/2025 05:13:00 PM,Abandoned,Normal,Dog,Intact Male,2 years,American Pit Bull Terrier Mix,Blue/White
+A928042,*Tadpole,04/06/2025 06:33:00 PM,Stray,Normal,Dog,Intact Male,4 years,Pit Bull Mix,Brown Brindle/White
+A928044,*Miss Magoo,04/06/2025 06:41:00 PM,Stray,Normal,Dog,Intact Female,3 years,Boxer Mix,Brown/Black
+A928063,Bjorn,04/07/2025 11:03:00 AM,Owner Surrender,Normal,Dog,Intact Male,3 years,Schnauzer Giant,Black
+A928067,,04/07/2025 11:47:00 AM,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair,Gray Tabby
+A928085,Ollie,04/07/2025 02:16:00 PM,Owner Surrender,Normal,Dog,Neutered Male,2 years,English Pointer/Labrador Retriever,White/Black
+A928055,Toulouse,04/07/2025 03:49:00 PM,Owner Surrender,Normal,Dog,Intact Male,7 months,German Shepherd,Black/Brown
+A928112,*Emily,04/08/2025 11:17:00 AM,Stray,Normal,Cat,Intact Female,6 months,Domestic Medium Hair,Cream Tabby
+A928114,,04/08/2025 11:19:00 AM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Brown Tabby
+A928115,,04/08/2025 11:19:00 AM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Blue Tabby
+A928132,Fable,04/08/2025 01:32:00 PM,Stray,Injured,Dog,Neutered Male,1 year,Pit Bull Mix,White/Blue Merle
+A928141,*Abby Jane,04/08/2025 02:25:00 PM,Stray,Normal,Cat,Spayed Female,2 years,Siamese,Lynx Point/White
+A928144,*Judith,04/08/2025 02:35:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Brown Tabby
+A928145,,04/08/2025 02:35:00 PM,Stray,Normal,Cat,Intact Male,2 weeks,Domestic Shorthair,Brown Tabby
+A928146,,04/08/2025 02:35:00 PM,Stray,Normal,Cat,Intact Male,2 weeks,Siamese Mix,Lynx Point
+A928147,,04/08/2025 02:35:00 PM,Stray,Normal,Cat,Intact Female,2 weeks,Siamese Mix,Lynx Point
+A928149,,04/08/2025 02:35:00 PM,Stray,Normal,Cat,Intact Male,2 weeks,Domestic Shorthair,Orange Tabby
+A927971,,04/08/2025 02:47:00 PM,Stray,Normal,Dog,Spayed Female,3 years,Rat Terrier Mix,Black/Brown
+A928165,*Edwin,04/09/2025 10:01:00 AM,Stray,Normal,Dog,Intact Male,2 years,Labrador Retriever/Alaskan Husky,Tan/White
+A928168,,04/09/2025 11:01:00 AM,Stray,Normal,Cat,Neutered Male,2 years,Domestic Shorthair,Blue/White
+A928169,*Melanie,04/09/2025 11:01:00 AM,Stray,Normal,Cat,Intact Female,7 months,Domestic Shorthair,Orange Tabby
+A928182,Ivan,04/09/2025 12:06:00 PM,Owner Surrender,Normal,Dog,Neutered Male,9 years,American Bulldog/French Bulldog,Tan/Black
+A928175,Bruno,04/09/2025 12:12:00 PM,Owner Surrender,Normal,Cat,Neutered Male,1 year,Domestic Shorthair,Black/White
+A928187,*Santiago,04/09/2025 12:54:00 PM,Stray,Normal,Dog,Neutered Male,7 years,Pit Bull,White/Red
+A926864,*Astrid,04/09/2025 01:01:00 PM,Stray,Normal,Dog,Intact Female,1 month,German Shepherd,Black/Brown
+A928198,*Zazu,04/09/2025 01:19:00 PM,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Fawn/White
+A927930,,04/09/2025 01:39:00 PM,Stray,Normal,Cat,Intact Female,2 weeks,Domestic Shorthair,Brown Tabby
+A927931,,04/09/2025 01:39:00 PM,Stray,Normal,Cat,Intact Female,2 weeks,Domestic Shorthair,Blue Tabby
+A927932,,04/09/2025 01:39:00 PM,Stray,Normal,Cat,Unknown,2 weeks,Domestic Shorthair,Brown Tabby
+A927933,,04/09/2025 01:39:00 PM,Stray,Normal,Cat,Intact Male,2 weeks,Domestic Shorthair,White
+A927521,,04/09/2025 01:39:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Blue Tabby
+A928218,*Teddy,04/09/2025 06:47:00 PM,Stray,Medical,Cat,Intact Male,4 weeks,Domestic Shorthair,Brown Tabby/White
+A923033,Igor,04/10/2025 10:45:00 AM,Owner Surrender,Normal,Dog,Neutered Male,6 months,Siberian Husky Mix,Black/Tan
+A928234,,04/10/2025 10:46:00 AM,Public Assist,Sick,Other,Unknown,2 years,Snake/Python,Yellow/Brown
+A928242,*Caramel,04/10/2025 11:10:00 AM,Owner Surrender,Normal,Dog,Intact Female,4 years,Australian Cattle Dog,White/Black
+A928244,*Toffee,04/10/2025 11:10:00 AM,Owner Surrender,Normal,Dog,Intact Male,4 years,Australian Cattle Dog,White/Brown
+A928249,*Kit Kat,04/10/2025 11:10:00 AM,Owner Surrender,Normal,Dog,Intact Male,2 years,Australian Cattle Dog,Tricolor
+A928259,,04/10/2025 12:36:00 PM,Stray,Normal,Dog,Intact Male,3 years,Chihuahua Shorthair Mix,Tan
+A928268,Ash,04/10/2025 01:42:00 PM,Owner Surrender,Normal,Cat,Neutered Male,1 year,Domestic Shorthair,Blue Tabby
+A928269,Daisy,04/10/2025 01:51:00 PM,Owner Surrender,Normal,Dog,Spayed Female,3 years,English Pointer/Pit Bull,Black/White
+A922597,Eddie,04/10/2025 01:55:00 PM,Stray,Normal,Dog,Neutered Male,2 years,Labrador Retriever,Chocolate
+A928304,*Muppet,04/11/2025 09:48:00 AM,Abandoned,Normal,Dog,Intact Male,2 years,Siberian Husky,Black/White
+A928312,*Brandi,04/11/2025 10:36:00 AM,Stray,Normal,Cat,Intact Female,9 months,Domestic Shorthair,Torbie
+A928240,*Bluebell,04/11/2025 11:18:00 AM,Stray,Normal,Dog,Intact Female,1 month,Labrador Retriever/German Shepherd,White/Brown
+A928313,*Zanzibar,04/11/2025 11:36:00 AM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Blue Tabby/White
+A928314,*Lil Luna,04/11/2025 11:49:00 AM,Owner Surrender,Normal,Dog,Spayed Female,3 years,Labrador Retriever Mix,Tan
+A928322,Dawn,04/11/2025 12:21:00 PM,Owner Surrender,Normal,Cat,Spayed Female,2 years,Domestic Shorthair,Blue Tabby
+A928321,,04/11/2025 12:38:00 PM,Stray,Injured,Cat,Intact Female,4 months,Domestic Shorthair,Black
+A928342,*Peep,04/11/2025 07:18:00 PM,Public Assist,Sick,Dog,Intact Female,5 years,Great Dane Mix,Tan/Black
+A928356,*Dakota,04/12/2025 09:13:00 AM,Stray,Normal,Dog,Intact Female,4 years,German Shepherd/Labrador Retriever,White/Black
+A928357,*Hawaii,04/12/2025 09:13:00 AM,Stray,Med Attn,Dog,Intact Female,4 weeks,Labrador Retriever Mix,White
+A928358,*Washington,04/12/2025 09:13:00 AM,Stray,Med Attn,Dog,Intact Male,4 weeks,Labrador Retriever Mix,White
+A928359,*Alabama,04/12/2025 09:13:00 AM,Stray,Med Attn,Dog,Intact Male,4 weeks,Labrador Retriever Mix,White
+A928360,*Koda,04/12/2025 09:13:00 AM,Stray,Med Attn,Dog,Intact Male,4 weeks,Labrador Retriever Mix,Black/White
+A928538,*Bonnie,04/12/2025 09:13:00 AM,Stray,Med Attn,Dog,Intact Female,4 weeks,Labrador Retriever Mix,White
+A928541,*Kentucky,04/12/2025 09:13:00 AM,Stray,Med Attn,Dog,Intact Male,4 weeks,Labrador Retriever Mix,White
+A928370,*Tsunade,04/12/2025 11:34:00 AM,Stray,Normal,Dog,Intact Female,2 years,Boxer Mix,Brown/White
+A928382,Star,04/12/2025 01:12:00 PM,Stray,Injured,Dog,Spayed Female,4 years,Labrador Retriever Mix,Cream
+A928385,*Kenai,04/12/2025 01:55:00 PM,Abandoned,Normal,Dog,Neutered Male,2 years,Alaskan Husky,Black/White
+A928386,*Kosa,04/12/2025 01:55:00 PM,Abandoned,Normal,Dog,Intact Female,4 years,Siberian Husky Mix,Black/White
+A928401,*Munch,04/12/2025 08:43:00 PM,Stray,Normal,Dog,Intact Male,7 months,Australian Cattle Dog,Black/White
+A928419,*Lily,04/13/2025 11:37:00 AM,Stray,Normal,Cat,Intact Female,4 months,Domestic Shorthair,Tortie/White
+A928432,*Coriander,04/13/2025 03:57:00 PM,Abandoned,Normal,Dog,Intact Male,1 year,German Shepherd Mix,Black/Brown
+A928433,Xena,04/13/2025 04:51:00 PM,Public Assist,Normal,Dog,Spayed Female,7 years,Pointer/Beagle,White/Brown
+A928439,*Merlin,04/14/2025 08:58:00 AM,Stray,Injured,Cat,Intact Male,1 year,Domestic Medium Hair,Black
+A928451,,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Cream Tabby
+A928452,,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair,Torbie
+A928453,*Summer,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair,Torbie
+A928455,*Autumn,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Torbie
+A928456,,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Cream Tabby
+A928457,*Tiny,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Cream Tabby
+A928458,,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair,Torbie
+A928459,,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair,Torbie
+A928460,*Winter,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Blue Tabby
+A928461,,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Blue Tabby
+A928462,*Spring,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Torbie
+A928448,,04/14/2025 10:16:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Cream Tabby
+A928449,*Peter,04/14/2025 10:23:00 AM,Stray,Normal,Cat,Intact Male,6 years,Domestic Shorthair,Blue/White
+A928454,*Bunny,04/14/2025 10:23:00 AM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Brown Tabby
+A928467,*Stacy,04/14/2025 11:04:00 AM,Stray,Normal,Cat,Spayed Female,11 years,Domestic Shorthair,Tortie
+A928471,*Mr. Tangerine Man,04/14/2025 12:29:00 PM,Stray,Normal,Cat,Intact Male,5 years,Domestic Shorthair,Orange Tabby
+A928485,Georgia,04/14/2025 03:40:00 PM,Stray,Normal,Dog,Intact Female,9 months,Pointer/Pit Bull,Black/White
+A928517,*Lady Bug,04/15/2025 11:52:00 AM,Stray,Normal,Dog,Intact Female,2 years,Dachshund/Chihuahua Shorthair,Brown Brindle
+A928508,,04/15/2025 12:13:00 PM,Stray,Injured,Dog,Intact Female,2 years,Cairn Terrier Mix,White
+A928214,*Frisco,04/15/2025 01:19:00 PM,Stray,Normal,Dog,Intact Male,2 years,Labrador Retriever/Pit Bull,Brown/White
+A928559,*Blanche,04/15/2025 02:31:00 PM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Brown Tabby
+A928565,*Paulo,04/15/2025 04:11:00 PM,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,White/Black
+A928581,*Carmella,04/16/2025 09:27:00 AM,Owner Surrender,Normal,Dog,Intact Female,2 years,Labrador Retriever/Siberian Husky,White
+A928582,,04/16/2025 09:27:00 AM,Owner Surrender,Normal,Dog,Intact Male,1 week,Mastiff/Alaskan Husky,Tricolor/Black
+A928583,,04/16/2025 09:27:00 AM,Owner Surrender,Normal,Dog,Intact Female,1 week,Mastiff/Alaskan Husky,Tricolor/Black
+A928584,,04/16/2025 09:27:00 AM,Owner Surrender,Normal,Dog,Intact Male,1 week,Mastiff/Alaskan Husky,Black/Tan
+A928585,,04/16/2025 09:27:00 AM,Owner Surrender,Normal,Dog,Intact Female,1 week,Mastiff/Alaskan Husky,Black/White
+A928586,,04/16/2025 09:27:00 AM,Owner Surrender,Normal,Dog,Intact Male,1 week,Mastiff/Alaskan Husky,Sable/White
+A928587,,04/16/2025 09:27:00 AM,Owner Surrender,Normal,Dog,Intact Male,1 week,Mastiff/Alaskan Husky,Tricolor/Brown
+A928588,,04/16/2025 09:27:00 AM,Owner Surrender,Normal,Dog,Intact Female,1 week,Mastiff/Alaskan Husky,Tricolor
+A928590,*Mary Kate,04/16/2025 10:22:00 AM,Abandoned,Normal,Dog,Intact Female,1 month,German Shepherd/Siberian Husky,Fawn/Black
+A928591,*Ashley,04/16/2025 10:22:00 AM,Abandoned,Normal,Dog,Intact Female,1 month,German Shepherd/Siberian Husky,Ruddy/Black
+A928592,,04/16/2025 10:22:00 AM,Abandoned,Normal,Dog,Intact Female,1 month,German Shepherd/Siberian Husky,Black/Cream
+A928593,,04/16/2025 10:22:00 AM,Abandoned,Normal,Dog,Intact Female,1 month,German Shepherd/Siberian Husky,Black/Yellow Brindle
+A928597,*Echo,04/16/2025 10:22:00 AM,Abandoned,Normal,Dog,Intact Female,1 year,Siberian Husky,Black/White
+A928609,Baron,04/16/2025 12:29:00 PM,Owner Surrender,Normal,Dog,Neutered Male,3 years,Black Mouth Cur,Fawn/White
+A928610,*Ferris Bueller,04/16/2025 12:55:00 PM,Stray,Normal,Dog,Intact Male,1 month,Australian Kelpie Mix,Black/White
+A928615,Clifford,04/16/2025 02:34:00 PM,Owner Surrender,Normal,Dog,Neutered Male,1 year,Labrador Retriever Mix,Black/White
+A928622,*Avery,04/16/2025 07:32:00 PM,Stray,Normal,Dog,Intact Female,4 years,Labrador Retriever,Brown
+A928623,Good Boy,04/16/2025 07:49:00 PM,Owner Surrender,Normal,Dog,Intact Male,3 years,Labrador Retriever Mix,Tan/Yellow
+A928624,Black Dog,04/16/2025 07:49:00 PM,Owner Surrender,Normal,Dog,Intact Male,3 years,Labrador Retriever Mix,Black/Tan
+A895318,Sunshine,04/17/2025 07:27:00 AM,Stray,Normal,Dog,Intact Female,3 years,Pit Bull,Tricolor
+A928636,*Dorothy,04/17/2025 08:47:00 AM,Stray,Sick,Cat,Intact Female,1 month,Domestic Shorthair,Brown Tabby
+A928637,*Sophia,04/17/2025 08:47:00 AM,Stray,Sick,Cat,Intact Female,1 month,Domestic Shorthair,Brown Tabby
+A928650,*Meadow,04/17/2025 11:18:00 AM,Owner Surrender,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Black/White
+A928651,,04/17/2025 11:18:00 AM,Owner Surrender,Normal,Cat,Intact Female,1 weeks,Domestic Shorthair,Blue/White
+A928652,,04/17/2025 11:18:00 AM,Owner Surrender,Normal,Cat,Intact Female,1 weeks,Domestic Shorthair,Black/White
+A928653,,04/17/2025 11:18:00 AM,Owner Surrender,Normal,Cat,Intact Female,1 weeks,Domestic Shorthair,Black
+A928655,,04/17/2025 11:18:00 AM,Owner Surrender,Normal,Cat,Intact Male,2 weeks,Domestic Shorthair,Black/White
+A928656,,04/17/2025 11:18:00 AM,Owner Surrender,Normal,Cat,Intact Male,2 weeks,Domestic Shorthair,Black
+A928657,,04/17/2025 11:18:00 AM,Owner Surrender,Normal,Cat,Intact Male,2 weeks,Domestic Shorthair,Black
+A928685,*Rose,04/17/2025 01:40:00 PM,Stray,Medical,Cat,Intact Female,1 month,Domestic Shorthair,Black/White
+A928673,Mamba,04/17/2025 01:48:00 PM,Abandoned,Injured,Dog,Intact Male,2 years,American Pit Bull Terrier,Blue/White
+A928626,*Toaster,04/17/2025 08:19:00 PM,Stray,Injured,Cat,Intact Male,2 years,Domestic Shorthair,Black
+A928718,Zariah,04/18/2025 10:50:00 AM,Owner Surrender,Normal,Dog,Spayed Female,3 years,American Pit Bull Terrier,Brown/White
+A928729,,04/18/2025 12:02:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Black
+A928730,Dawn,04/18/2025 12:02:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Black
+A928731,,04/18/2025 12:02:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Black
+A928732,,04/18/2025 12:02:00 PM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Calico
+A928725,*Oscar,04/18/2025 12:05:00 PM,Stray,Normal,Dog,Intact Male,2 years,Labrador Retriever/Pit Bull,Brown Brindle/White
+A928743,,04/18/2025 12:53:00 PM,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair,Blue Tabby
+A928744,,04/18/2025 12:53:00 PM,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair,Blue Tabby
+A928746,Berlioz,04/18/2025 01:13:00 PM,Owner Surrender,Normal,Cat,Unknown,11 months,Domestic Shorthair,Blue
+A928754,*Abby The Tabby,04/18/2025 02:30:00 PM,Public Assist,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Brown Tabby
+A928773,*Pj,04/18/2025 09:29:00 PM,Stray,Injured,Dog,Intact Male,2 years,American Staffordshire Terrier,Brown/White
+A928769,*Lyra,04/19/2025 07:44:00 AM,Stray,Normal,Dog,Intact Female,1 month,Labrador Retriever Mix,Cream
+A928771,Juno,04/19/2025 07:59:00 AM,Owner Surrender,Injured,Cat,Intact Female,3 years,Domestic Shorthair,Calico
+A928791,,04/19/2025 11:02:00 AM,Stray,Sick,Cat,Intact Female,1 month,Domestic Longhair,Gray
+A928792,,04/19/2025 11:02:00 AM,Stray,Sick,Cat,Intact Female,1 month,Domestic Longhair,Cream Tabby/White
+A928793,,04/19/2025 11:06:00 AM,Stray,Normal,Cat,Intact Male,2 weeks,Domestic Shorthair,Gray Tabby/White
+A928806,*Easter Sunrise,04/19/2025 01:22:00 PM,Stray,Injured,Cat,Intact Female,9 months,Domestic Shorthair,White/Brown Tabby
+A928814,Momma,04/19/2025 05:19:00 PM,Owner Surrender,Normal,Cat,Spayed Female,3 years,Domestic Shorthair,Blue Tabby
+A928825,*Tundra,04/20/2025 08:02:00 AM,Stray,Injured,Dog,Intact Female,1 month,Australian Shepherd/Great Pyrenees,White
+A928866,,04/20/2025 12:05:00 PM,Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A928834,*Emma,04/20/2025 02:23:00 PM,Stray,Medical,Dog,Intact Female,3 months,German Shepherd/Labrador Retriever,Black/Tan
+A928835,*Gemma,04/20/2025 02:23:00 PM,Stray,Medical,Dog,Intact Female,3 months,German Shepherd/Labrador Retriever,Black/Tan
+A928838,*Mary Kate,04/20/2025 05:24:00 PM,Public Assist,Normal,Dog,Intact Female,1 year,Catahoula Mix,Fawn/Cream
+A928839,*Ashley,04/20/2025 05:24:00 PM,Public Assist,Normal,Dog,Intact Female,1 year,Catahoula Mix,Red/Tan
+A928840,*Uncle Joey,04/20/2025 05:24:00 PM,Public Assist,Normal,Dog,Intact Male,1 year,Catahoula Mix,Buff/Cream
+A928847,,04/21/2025 07:24:00 AM,Stray,Neonatal,Cat,Intact Female,2 days,Domestic Shorthair,White/White
+A928848,,04/21/2025 07:24:00 AM,Stray,Neonatal,Cat,Intact Female,2 days,Domestic Shorthair,White/White
+A928852,*Tessa,04/21/2025 09:43:00 AM,Stray,Feral,Dog,Intact Female,2 months,Labrador Retriever,White
+A928858,Canela,04/21/2025 10:19:00 AM,Abandoned,Normal,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Tan
+A928874,*Cinnamon,04/21/2025 12:37:00 PM,Stray,Normal,Dog,Intact Female,11 months,Pit Bull,Tan/White
+A928877,*Ric Flair,04/21/2025 12:58:00 PM,Stray,Normal,Dog,Intact Male,2 months,American Pit Bull Terrier,White/Brown
+A928879,*Paloma,04/21/2025 01:07:00 PM,Stray,Normal,Dog,Intact Female,1 month,Chihuahua Shorthair Mix,Brown Brindle
+A928890,*Blake,04/21/2025 01:38:00 PM,Stray,Normal,Cat,Unknown,2 years,Domestic Shorthair,Orange Tabby
+A928905,Milo,04/21/2025 03:33:00 PM,Stray,Normal,Dog,Neutered Male,1 year,Siberian Husky/German Shepherd,Brown/Tan
+A928906,Binx,04/21/2025 05:28:00 PM,Owner Surrender,Normal,Cat,Unknown,2 years,Domestic Shorthair,Tortie
+A928756,,04/22/2025 01:00:00 AM,Stray,Normal,Dog,Intact Male,1 year,Labrador Retriever Mix,Brown
+A928927,*Harper,04/22/2025 07:38:00 AM,Stray,Injured,Dog,Intact Female,1 year,Pit Bull,Brown/White
+A928945,*Gus Gus,04/22/2025 11:54:00 AM,Owner Surrender,Normal,Dog,Intact Male,1 year,German Shepherd Mix,Black/Cream
+A928947,*Smoke,04/22/2025 11:54:00 AM,Owner Surrender,Normal,Dog,Intact Male,2 years,Siberian Husky Mix,White/Black Smoke
+A928946,,04/22/2025 12:05:00 PM,Stray,Neonatal,Cat,Intact Male,1 weeks,Domestic Shorthair,Brown Tabby
+A928944,Gwen,04/22/2025 12:26:00 PM,Owner Surrender,Normal,Cat,Spayed Female,2 years,Domestic Shorthair,Blue/White
+A928780,,04/22/2025 01:14:00 PM,Stray,Normal,Cat,Intact Male,6 days,Domestic Shorthair,Black
+A928781,,04/22/2025 01:14:00 PM,Stray,Normal,Cat,Intact Male,6 days,Domestic Shorthair,Black/White
+A928782,,04/22/2025 01:14:00 PM,Stray,Normal,Cat,Intact Male,6 days,Domestic Shorthair,White/Black
+A928783,,04/22/2025 01:14:00 PM,Stray,Normal,Cat,Intact Male,6 days,Domestic Shorthair,Gray
+A928784,,04/22/2025 01:14:00 PM,Stray,Normal,Cat,Intact Male,6 days,Domestic Shorthair,Orange Tabby
+A928785,,04/22/2025 01:14:00 PM,Stray,Normal,Cat,Intact Female,6 days,Domestic Shorthair,Tortie
+A928661,,04/22/2025 01:14:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Tortie/Orange
+A928953,*Sparkle,04/22/2025 01:44:00 PM,Stray,Normal,Other,Intact Female,1 year,Rabbit Sh,White/Black
+A928666,,04/22/2025 02:13:00 PM,Stray,Normal,Cat,Neutered Male,3 years,Domestic Shorthair,Black/White
+A928959,*Badger,04/22/2025 02:19:00 PM,Stray,Normal,Dog,Intact Male,2 years,Belgian Malinois,Sable
+A928967,Corazon,04/22/2025 03:31:00 PM,Stray,Normal,Dog,Intact Male,1 month,Dalmatian Mix,White/Black
+A928968,Flor,04/22/2025 03:31:00 PM,Stray,Normal,Dog,Intact Female,1 month,Dalmatian/Australian Cattle Dog,White/Black
+A928948,Nola,04/22/2025 06:11:00 PM,Owner Surrender,Normal,Dog,Intact Female,2 years,American Bulldog Mix,White/Black
+A928987,Lilly,04/23/2025 09:47:00 AM,Stray,Sick,Dog,Spayed Female,10 years,Siberian Husky,Gray/White
+A928988,*Ricky,04/23/2025 10:16:00 AM,Owner Surrender,Normal,Dog,Neutered Male,2 years,Siberian Husky,White
+A928989,*Lucy,04/23/2025 10:16:00 AM,Owner Surrender,Normal,Dog,Intact Female,1 year,Siberian Husky,White
+A928990,*Petunia,04/23/2025 10:16:00 AM,Owner Surrender,Normal,Dog,Intact Female,3 years,Siberian Husky,Brown/Gray
+A929001,*Bear,04/23/2025 11:09:00 AM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Blue
+A929002,*Fox,04/23/2025 11:09:00 AM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Blue
+A929003,*Rabbit,04/23/2025 11:09:00 AM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Black
+A929004,*Turtle,04/23/2025 11:09:00 AM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Black
+A928995,*Guppy,04/23/2025 11:15:00 AM,Stray,Neonatal,Cat,Intact Female,3 weeks,Domestic Shorthair,Brown Tabby
+A928996,*Minnow,04/23/2025 11:15:00 AM,Stray,Neonatal,Cat,Intact Female,3 weeks,Domestic Shorthair,Brown Tabby/White
+A928997,*Danio,04/23/2025 11:15:00 AM,Stray,Neonatal,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby
+A928998,*Molly,04/23/2025 11:15:00 AM,Stray,Neonatal,Cat,Intact Male,3 weeks,Domestic Shorthair,Blue
+A928999,*Tetra,04/23/2025 11:15:00 AM,Stray,Neonatal,Cat,Intact Male,3 weeks,Domestic Shorthair,Blue/White
+A929010,Tiger,04/23/2025 12:48:00 PM,Owner Surrender,Injured,Dog,Intact Male,9 months,Pit Bull,Brown Brindle/White
+A929014,Pinecone,04/23/2025 01:48:00 PM,Stray,Injured,Dog,Neutered Male,4 months,Alaskan Husky/German Shepherd,Brown/Tan
+A929025,*Graham,04/23/2025 03:21:00 PM,Stray,Normal,Dog,Intact Male,3 years,Pit Bull,Tan
+A929040,*Dance,04/24/2025 08:07:00 AM,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair,White/Brown Tabby
+A929041,*Prance,04/24/2025 08:07:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Brown Tabby
+A929042,*Bounce,04/24/2025 08:07:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Brown Tabby
+A929043,*Pounce,04/24/2025 08:07:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,White/Brown Tabby
+A929073,*Max,04/24/2025 10:19:00 AM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Gray/White
+A929074,*Chloe,04/24/2025 10:19:00 AM,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair,Tortie Point
+A929047,,04/24/2025 10:40:00 AM,Stray,Normal,Cat,Neutered Male,1 year,Domestic Shorthair,Gray Tabby
+A929048,Biscuit,04/24/2025 10:51:00 AM,Owner Surrender,Normal,Other,Intact Male,4 months,Rabbit Sh,Tan
+A929046,Fluffy,04/24/2025 10:51:00 AM,Owner Surrender,Normal,Other,Intact Male,4 months,Rabbit Sh,White/Black
+A929056,*Thackery,04/24/2025 11:51:00 AM,Stray,Normal,Cat,Neutered Male,2 years,Domestic Shorthair,Black
+A929060,*Nebula,04/24/2025 12:17:00 PM,Stray,Normal,Cat,Neutered Male,10 years,Domestic Medium Hair,Black/Black
+A929062,Softie,04/24/2025 12:17:00 PM,Stray,Normal,Cat,Spayed Female,3 years,Domestic Shorthair,Gray
+A929058,Hulk,04/24/2025 12:25:00 PM,Owner Surrender,Normal,Dog,Neutered Male,2 years,Rottweiler,Black/Tan
+A929069,Bear,04/24/2025 12:59:00 PM,Owner Surrender,Normal,Dog,Neutered Male,4 years,Chow Chow Mix,Brown
+A928614,Mongo,04/24/2025 03:18:00 PM,Stray,Normal,Cat,Neutered Male,8 years,Domestic Medium Hair,Black
+A929085,,04/24/2025 03:33:00 PM,Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A929086,,04/24/2025 03:33:00 PM,Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A929087,,04/24/2025 03:33:00 PM,Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A929088,,04/24/2025 03:33:00 PM,Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Gray
+A929089,,04/24/2025 03:33:00 PM,Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Gray
+A929079,*Mina,04/24/2025 03:33:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Black
+A928755,*Clawrence,04/24/2025 03:36:00 PM,Stray,Normal,Cat,Intact Male,2 years,Domestic Shorthair,Orange/White
+A929090,*Rory,04/24/2025 04:02:00 PM,Public Assist,Normal,Dog,Intact Male,2 years,American Pit Bull Terrier,Red/White
+A929092,,04/24/2025 04:20:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,White/Black Tabby
+A929107,,04/25/2025 06:34:00 AM,Stray,Neonatal,Cat,Intact Female,2 days,Domestic Shorthair,Black
+A929126,*Lavender,04/25/2025 11:07:00 AM,Stray,Normal,Dog,Intact Female,3 years,Rat Terrier Mix,Black/White
+A929137,,04/25/2025 12:33:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Black/White
+A929138,,04/25/2025 12:33:00 PM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Black/White
+A929139,,04/25/2025 12:33:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Black/White
+A929140,,04/25/2025 12:33:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Orange Tabby
+A929155,,04/25/2025 01:26:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Black
+A929156,,04/25/2025 01:26:00 PM,Stray,Neonatal,Cat,Intact Female,1 weeks,Domestic Shorthair,Black
+A929157,,04/25/2025 01:26:00 PM,Stray,Neonatal,Cat,Intact Female,1 weeks,Domestic Shorthair,Black/White
+A929158,,04/25/2025 01:26:00 PM,Stray,Neonatal,Cat,Intact Female,1 weeks,Domestic Shorthair,Black/White
+A929159,,04/25/2025 01:26:00 PM,Stray,Neonatal,Cat,Intact Female,1 weeks,Domestic Shorthair,Black/White
+A929160,,04/25/2025 01:26:00 PM,Stray,Neonatal,Cat,Intact Female,1 weeks,Domestic Shorthair,Black/White
+A929149,Kota,04/25/2025 02:00:00 PM,Stray,Normal,Dog,Intact Male,2 years,Cane Corso Mix,Black/White
+A929211,,04/26/2025 10:45:00 AM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Black
+A929213,,04/26/2025 10:45:00 AM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,White/Orange
+A929214,,04/26/2025 10:45:00 AM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,White/Black
+A929201,,04/26/2025 12:19:00 PM,Stray,Injured,Cat,Intact Male,1 month,Domestic Shorthair,Brown Tabby/Gray
+A929186,Bella,04/26/2025 07:55:00 PM,Public Assist,Behavior,Dog,Intact Female,2 years,Pit Bull,White
+A929187,Pig,04/26/2025 07:55:00 PM,Public Assist,Behavior,Dog,Intact Male,5 months,Pit Bull,White/Black
+A929229,Nana Puddin,04/27/2025 12:21:00 AM,Public Assist,Normal,Dog,Intact Female,3 months,Collie Smooth,Brown/White
+A929233,*Mr. Magoo,04/27/2025 12:32:00 AM,Stray,Injured,Dog,Intact Male,4 years,American Bulldog,Brown Brindle
+A929238,,04/27/2025 08:52:00 AM,Stray,Injured,Dog,Intact Male,5 years,Australian Cattle Dog,Blue Tick/Brown
+A929253,,04/27/2025 11:14:00 AM,Stray,Normal,Dog,Intact Female,7 months,Anatol Shepherd Mix,White/Tan
+A929251,,04/27/2025 11:14:00 AM,Stray,Normal,Dog,Intact Female,7 months,Anatol Shepherd Mix,Tan/White
+A929246,,04/27/2025 11:28:00 AM,Stray,Normal,Dog,Intact Female,1 year,Australian Cattle Dog,White/Black
+A929261,,04/27/2025 01:18:00 PM,Stray,Normal,Dog,Intact Male,4 years,Border Terrier,Tan/White
+A929269,,04/28/2025 07:25:00 AM,Stray,Sick,Cat,Unknown,1 week,Domestic Shorthair,White
+A929286,*Diana,04/28/2025 11:27:00 AM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Black/White
+A926950,*Anakin,04/28/2025 11:30:00 AM,Stray,Normal,Dog,Intact Male,9 months,Border Collie Mix,Black/White
+A926951,Daisy,04/28/2025 11:30:00 AM,Stray,Normal,Dog,Intact Female,9 months,German Shepherd Mix,Black/Brown Brindle
+A929291,,04/28/2025 12:24:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Blue/White
+A929294,,04/28/2025 12:24:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Brown Tabby
+A929295,,04/28/2025 12:24:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Black
+A929300,,04/28/2025 12:35:00 PM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Brown Tabby
+A929301,,04/28/2025 12:35:00 PM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Brown Tabby
+A929302,,04/28/2025 12:35:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Gray
+A929297,,04/28/2025 12:38:00 PM,Stray,Normal,Cat,Unknown,9 months,Domestic Shorthair,Orange Tabby
+A929298,,04/28/2025 12:38:00 PM,Stray,Normal,Cat,Unknown,9 months,Domestic Shorthair,Orange Tabby
+A929228,,04/28/2025 01:03:00 PM,Stray,Normal,Dog,Intact Female,3 months,Plott Hound,Tan
+A929305,,04/28/2025 01:32:00 PM,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby
+A929306,,04/28/2025 01:32:00 PM,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair,Brown Tabby
+A929307,,04/28/2025 01:32:00 PM,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby
+A929327,*Garnet,04/28/2025 02:06:00 PM,Stray,Normal,Dog,Intact Female,3 weeks,Australian Cattle Dog,Tricolor/Brown
+A929329,*Amethyst,04/28/2025 02:06:00 PM,Stray,Normal,Dog,Intact Female,3 weeks,Australian Cattle Dog,Tricolor/Blue Tick
+A929330,*Pearl,04/28/2025 02:06:00 PM,Stray,Normal,Dog,Intact Female,3 weeks,Labrador Retriever Mix,Blue Tick/Tricolor
+A929317,*Maggie May,04/28/2025 02:34:00 PM,Stray,Normal,Dog,Intact Female,2 years,Labrador Retriever,Tan/White
+A929320,,04/28/2025 02:46:00 PM,Stray,Normal,Cat,Intact Female,3 months,Domestic Shorthair,Brown Tabby
+A929321,,04/28/2025 03:14:00 PM,Stray,Normal,Cat,Intact Male,3 months,Domestic Shorthair,Gray Tabby
+A929322,,04/28/2025 03:14:00 PM,Stray,Normal,Cat,Intact Female,3 months,Domestic Shorthair,Calico
+A929334,Lennic,04/28/2025 04:08:00 PM,Owner Surrender,Normal,Dog,Intact Male,2 years,Rottweiler Mix,Tan/Brown
+A929349,,04/29/2025 07:17:00 AM,Stray,Sick,Cat,Intact Male,5 years,Domestic Shorthair,Black/Black
+A929351,,04/29/2025 08:54:00 AM,Public Assist,Normal,Dog,Intact Male,5 months,German Shepherd Mix,Black/Tricolor
+A929353,,04/29/2025 09:36:00 AM,Stray,Injured,Cat,Intact Male,2 years,Domestic Shorthair,Orange Tabby
+A926967,,04/29/2025 11:02:00 AM,Stray,Normal,Dog,Intact Female,1 year,Border Collie Mix,White/Brown
+A929373,Meeble,04/29/2025 11:06:00 AM,Owner Surrender,Normal,Cat,Unknown,7 years,Domestic Shorthair,Blue/White
+A929366,*Padme,04/29/2025 11:08:00 AM,Stray,Normal,Dog,Intact Female,5 months,Rhod Ridgeback Mix,Red
+A929356,,04/29/2025 11:08:00 AM,Stray,Normal,Dog,Intact Male,4 months,Rottweiler/Pit Bull,Black/Brown
+A929357,,04/29/2025 11:08:00 AM,Stray,Normal,Dog,Intact Female,5 months,Labrador Retriever/Border Collie,White/Black
+A880831,Kiarra,04/29/2025 12:07:00 PM,Public Assist,Normal,Dog,Intact Female,5 years,Staffordshire,Brown/White
+A928077,Amelie,04/29/2025 12:16:00 PM,Stray,Normal,Dog,Intact Female,3 years,Australian Cattle Dog,Tricolor/White
+A929369,*George,04/29/2025 12:32:00 PM,Stray,Normal,Cat,Unknown,2 years,Domestic Shorthair,Black/White
+A928277,,04/29/2025 01:36:00 PM,Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair,Tortie/Orange
+A928278,,04/29/2025 01:36:00 PM,Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair,Tortie
+A928279,,04/29/2025 01:36:00 PM,Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair,Black/White
+A928280,,04/29/2025 01:36:00 PM,Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair,Orange Tabby
+A928281,,04/29/2025 01:36:00 PM,Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair,Blue/White
+A929378,,04/29/2025 02:04:00 PM,Public Assist,Normal,Bird,Unknown,2 years,Chicken,Brown
+A929395,,04/29/2025 02:05:00 PM,Stray,Normal,Cat,Intact Male,5 days,Domestic Shorthair,Brown Tabby
+A929396,,04/29/2025 02:05:00 PM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Brown Tabby
+A929390,Mrs. Biscuits,04/29/2025 02:05:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Calico
+A929391,,04/29/2025 02:05:00 PM,Stray,Normal,Cat,Intact Female,2 weeks,Domestic Shorthair,Torbie/White
+A929392,,04/29/2025 02:05:00 PM,Stray,Normal,Cat,Intact Female,1 day,Domestic Shorthair,Torbie/White
+A929393,,04/29/2025 02:05:00 PM,Stray,Normal,Cat,Intact Female,5 days,Domestic Shorthair,Brown Tabby
+A929398,,04/29/2025 02:05:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Brown Tabby
+A929399,,04/29/2025 02:05:00 PM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Black
+A929394,,04/29/2025 02:16:00 PM,Stray,Sick,Dog,Intact Female,3 months,Labrador Retriever Mix,Gray
+A929397,Gooey Cake,04/29/2025 02:16:00 PM,Stray,Sick,Dog,Intact Female,3 months,Labrador Retriever Mix,Yellow
+A929380,,04/29/2025 02:26:00 PM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Black/White
+A929383,,04/29/2025 02:26:00 PM,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair,Brown Tabby
+A929384,,04/29/2025 02:26:00 PM,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair,Blue Tabby/White
+A929385,,04/29/2025 02:26:00 PM,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair,Blue/White
+A928567,,04/29/2025 03:21:00 PM,Stray,Neonatal,Cat,Intact Male,3 weeks,Siamese Mix,Flame Point
+A928426,,04/29/2025 03:21:00 PM,Stray,Neonatal,Cat,Intact Female,4 weeks,Domestic Longhair,Black
+A929405,Chandra,04/29/2025 03:37:00 PM,Owner Surrender,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Tortie
+A929403,,04/29/2025 03:40:00 PM,Stray,Injured,Cat,Intact Female,1 year,Domestic Shorthair,Cream Tabby/White
+A929415,*Butterfly,04/29/2025 04:44:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Torbie
+A929416,*Dandelion,04/29/2025 04:44:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Brown Tabby
+A929417,*Liliana,04/29/2025 04:44:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Lilac Point
+A929418,*Haru,04/29/2025 04:44:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Tortie Point
+A929419,*Clover,04/29/2025 04:44:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Tortie/White
+A929420,*Lovely,04/29/2025 04:44:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Brown Tabby
+A929421,*Ladybug,04/29/2025 04:44:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Torbie
+A929413,,04/29/2025 04:48:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Brown Tabby
+A929423,,04/29/2025 05:25:00 PM,Stray,Normal,Dog,Intact Male,2 months,Australian Kelpie Mix,Black/Brown
+A929424,*Monroe,04/29/2025 06:30:00 PM,Abandoned,Normal,Dog,Intact Male,2 years,German Shepherd Mix,Black/Brown
+A929436,*Lenny,04/29/2025 08:52:00 PM,Stray,Injured,Cat,Intact Male,9 months,American Shorthair,Brown Tabby
+A929441,,04/30/2025 10:43:00 AM,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair,Black/White
+A929450,,04/30/2025 11:13:00 AM,Stray,Normal,Dog,Intact Female,4 months,German Shepherd/Alaskan Husky,White
+A929444,,04/30/2025 11:56:00 AM,Public Assist,Neonatal,Cat,Unknown,1 day,Domestic Shorthair,Brown Tabby
+A929445,,04/30/2025 11:56:00 AM,Public Assist,Neonatal,Cat,Unknown,1 day,Domestic Shorthair,Brown Tabby
+A929446,,04/30/2025 11:56:00 AM,Public Assist,Neonatal,Cat,Unknown,1 day,Domestic Shorthair,Brown Tabby
+A929447,,04/30/2025 11:56:00 AM,Public Assist,Neonatal,Cat,Unknown,1 day,Domestic Shorthair,Blue Tabby
+A929448,,04/30/2025 11:56:00 AM,Public Assist,Neonatal,Cat,Unknown,1 day,Siamese Mix,Flame Point
+A929442,,04/30/2025 12:00:00 PM,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair,Brown Tabby/White
+A929452,,04/30/2025 12:17:00 PM,Stray,Normal,Dog,Intact Female,2 years,Pit Bull,Brown/White
+A929455,Cookie Crisp,04/30/2025 12:28:00 PM,Stray,Injured,Dog,Intact Male,3 months,Border Collie Mix,White/Brown
+A929456,,04/30/2025 12:30:00 PM,Stray,Normal,Cat,Unknown,9 months,Domestic Shorthair,Brown Tabby/White
+A929459,*Pumpkin,04/30/2025 12:58:00 PM,Stray,Neonatal,Cat,Intact Female,3 weeks,Domestic Shorthair,Brown Tabby
+A929460,*Pie,04/30/2025 12:58:00 PM,Stray,Neonatal,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby
+A929464,*Caterpillar,04/30/2025 02:26:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Brown Tabby/White
+A929480,,04/30/2025 04:24:00 PM,Stray,Medical,Cat,Intact Female,1 month,Domestic Longhair,Orange Tabby
+A929440,Ladybug Gemini,04/30/2025 06:10:00 PM,Public Assist,Normal,Dog,Intact Female,1 year,Cane Corso Mix,Tan
+A929487,,04/30/2025 11:53:00 PM,Stray,Injured,Dog,Intact Female,5 years,Chihuahua Shorthair,Tricolor
+A929561,,05/01/2025 12:11:00 AM,Public Assist,Normal,Dog,Intact Male,3 months,American Pit Bull Terrier,White/Black
+A929562,,05/01/2025 12:11:00 AM,Public Assist,Normal,Dog,Intact Female,3 months,American Pit Bull Terrier,Brown Brindle
+A929499,*Vera,05/01/2025 10:26:00 AM,Stray,Normal,Cat,Intact Female,2 years,Domestic Medium Hair,Brown Tabby
+A929500,,05/01/2025 10:26:00 AM,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby
+A929501,,05/01/2025 10:26:00 AM,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair,Blue Tabby
+A929502,,05/01/2025 10:26:00 AM,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair,Blue Tabby
+A929493,Milkyway,05/01/2025 10:37:00 AM,Abandoned,Normal,Dog,Intact Female,2 years,Pembroke Welsh Corgi Mix,Tan/Black
+A929494,Unknown,05/01/2025 10:37:00 AM,Abandoned,Normal,Cat,Unknown,2 years,Domestic Shorthair,Orange/White
+A926785,,05/01/2025 10:55:00 AM,Stray,Normal,Dog,Intact Female,4 years,Siberian Husky,Black Smoke/White
+A929495,,05/01/2025 10:57:00 AM,Owner Surrender,Normal,Dog,Intact Female,3 years,Australian Cattle Dog Mix,Red/Brown
+A929496,*Scout,05/01/2025 10:57:00 AM,Owner Surrender,Normal,Dog,Intact Male,4 months,Golden Retriever/Australian Cattle Dog,Red
+A929505,*Speedy,05/01/2025 11:32:00 AM,Owner Surrender,Normal,Other,Intact Male,1 month,Mouse,White/Yellow
+A929506,*Jaq,05/01/2025 11:32:00 AM,Owner Surrender,Normal,Other,Intact Male,1 month,Mouse,Yellow/White
+A929507,*Gus,05/01/2025 11:32:00 AM,Owner Surrender,Normal,Other,Intact Male,1 month,Mouse,Brown/White
+A929508,,05/01/2025 11:32:00 AM,Owner Surrender,Normal,Other,Intact Male,1 month,Mouse,Brown/White
+A929498,,05/01/2025 11:40:00 AM,Abandoned,Neonatal,Dog,Intact Male,1 month,Border Collie,Black/White
+A929509,,05/01/2025 11:57:00 AM,Stray,Normal,Cat,Neutered Male,1 year,Domestic Shorthair,Brown Tabby
+A929518,,05/01/2025 12:36:00 PM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Calico/Orange
+A929519,,05/01/2025 12:36:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Orange Tabby
+A929520,,05/01/2025 12:36:00 PM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Brown Tabby
+A929516,,05/01/2025 12:45:00 PM,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,White/Brown Tabby
+A929517,,05/01/2025 12:45:00 PM,Stray,Normal,Cat,Intact Male,1 year,Domestic Shorthair,White/Brown Tabby
+A929526,,05/01/2025 02:01:00 PM,Stray,Normal,Cat,Neutered Male,2 years,Domestic Shorthair,Brown Tabby
+A929527,,05/01/2025 02:23:00 PM,Stray,Sick,Cat,Intact Male,4 weeks,Domestic Shorthair,Brown Tabby
+A929084,,05/01/2025 02:46:00 PM,Stray,Normal,Dog,Intact Female,5 months,Australian Cattle Dog/Anatol Shepherd,White/Brown
+A929534,,05/01/2025 02:59:00 PM,Public Assist,Normal,Dog,Intact Female,3 months,Australian Cattle Dog Mix,White/Red
+A928543,,05/01/2025 03:04:00 PM,Stray,Injured,Dog,Intact Female,7 years,American Pit Bull Terrier,Black
+A929535,,05/01/2025 03:08:00 PM,Stray,Injured,Dog,Intact Male,1 year,Pit Bull,Black
+A927759,,05/01/2025 03:30:00 PM,Stray,Normal,Dog,Intact Female,3 years,American Pit Bull Terrier,White
+A929540,,05/01/2025 03:47:00 PM,Stray,Injured,Dog,Intact Female,1 month,Pit Bull Mix,Brown/White
+A929658,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929659,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929660,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929661,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929662,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929663,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929664,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929665,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929666,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929667,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929670,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929671,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929672,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929673,,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A917535,Daisey,05/01/2025 04:21:00 PM,Owner Surrender,Pregnant,Dog,Intact Female,2 years,Boxer Mix,Brown
+A929550,,05/01/2025 05:46:00 PM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Calico
+A929558,,05/01/2025 07:31:00 PM,Wildlife,Injured,Other,Unknown,1 year,Raccoon,Black
+A929572,,05/02/2025 08:31:00 AM,Stray,Injured,Dog,Spayed Female,2 months,German Shepherd,Black/Brown
+A929575,,05/02/2025 10:56:00 AM,Public Assist,Normal,Dog,Intact Female,2 years,American Pit Bull Terrier,White/Brown
+A929578,Midnight,05/02/2025 11:03:00 AM,Owner Surrender,Normal,Cat,Intact Male,2 months,Domestic Shorthair,Black/White
+A929579,*Sassy,05/02/2025 11:17:00 AM,Owner Surrender,Normal,Dog,Intact Female,4 months,German Shepherd,Brown
+A929580,*Sissy,05/02/2025 11:17:00 AM,Owner Surrender,Normal,Dog,Intact Female,4 months,German Shepherd,Brown
+A929577,*Sleepy,05/02/2025 11:17:00 AM,Owner Surrender,Normal,Dog,Intact Male,4 months,German Shepherd,Brown
+A929582,Chowder,05/02/2025 11:18:00 AM,Stray,Normal,Cat,Intact Female,8 months,Domestic Shorthair,Orange Tabby
+A928330,,05/02/2025 11:35:00 AM,Stray,Normal,Dog,Intact Female,5 months,Labrador Retriever,Tan/White
+A929594,Ruby,05/02/2025 11:57:00 AM,Owner Surrender,Normal,Other,Intact Female,1 year,Guinea Pig,Tricolor
+A929595,Bumble,05/02/2025 11:57:00 AM,Owner Surrender,Normal,Other,Intact Female,1 year,Guinea Pig,Tricolor
+A929603,,05/02/2025 12:56:00 PM,Stray,Normal,Cat,Neutered Male,4 years,Russian Blue,Gray
+A929601,,05/02/2025 12:58:00 PM,Stray,Normal,Livestock,Unknown,2 years,Pig,Gray/White
+A929605,,05/02/2025 01:20:00 PM,Stray,Normal,Cat,Intact Male,1 week,Domestic Shorthair,Cream Tabby
+A929607,,05/02/2025 01:20:00 PM,Stray,Normal,Cat,Intact Female,1 week,Domestic Shorthair,Orange Tabby
+A929608,,05/02/2025 01:20:00 PM,Stray,Normal,Cat,Intact Male,1 week,Domestic Shorthair,Brown Tabby
+A929609,,05/02/2025 01:20:00 PM,Stray,Normal,Cat,Intact Female,1 week,Domestic Shorthair,Tortie
+A929610,,05/02/2025 01:20:00 PM,Stray,Normal,Cat,Intact Female,1 week,Domestic Shorthair,Brown Tabby
+A929612,,05/02/2025 01:24:00 PM,Stray,Normal,Cat,Intact Male,3 months,Domestic Shorthair,Black/White
+A929616,,05/02/2025 02:27:00 PM,Stray,Normal,Cat,Unknown,6 months,Domestic Shorthair,Black/White
+A929617,,05/02/2025 02:27:00 PM,Stray,Normal,Cat,Intact Female,6 months,Domestic Shorthair,Black/White
+A929619,,05/02/2025 03:15:00 PM,Abandoned,Normal,Dog,Intact Female,1 year,Rottweiler,Black/Brown
+A929622,,05/02/2025 04:27:00 PM,Stray,Medical,Dog,Intact Male,6 years,Shih Tzu Mix,Brown/Chocolate
+A929623,*Jupiter,05/02/2025 04:49:00 PM,Owner Surrender,Normal,Cat,Intact Male,2 months,Domestic Shorthair,Orange Tabby
+A929632,,05/02/2025 10:01:00 PM,Stray,Normal,Dog,Intact Male,1 year,Siberian Husky,White/Black
+A929633,,05/02/2025 10:01:00 PM,Stray,Normal,Dog,Intact Female,7 months,Pit Bull Mix,Black Brindle
+A929637,*Soot Sprite,05/03/2025 08:40:00 AM,Stray,Neonatal,Cat,Intact Male,2 weeks,Domestic Shorthair,Black
+A929639,,05/03/2025 10:28:00 AM,Stray,Normal,Dog,Intact Female,1 year,Black Mouth Cur,Brown/Black
+A929640,,05/03/2025 10:28:00 AM,Stray,Normal,Dog,Intact Male,2 years,Staffordshire Mix,Brown/Black
+A929641,,05/03/2025 11:07:00 AM,Stray,Normal,Cat,Unknown,2 years,Domestic Shorthair,Blue
+A929624,Spike,05/03/2025 11:39:00 AM,Stray,Normal,Dog,Intact Male,3 years,Chihuahua Shorthair,Black/White
+A929643,,05/03/2025 12:07:00 PM,Stray,Normal,Cat,Intact Female,4 days,Domestic Shorthair,Brown Tabby/White
+A929645,,05/03/2025 12:39:00 PM,Stray,Injured,Dog,Intact Male,2 years,German Shepherd Mix,Tan/Black
+A929646,,05/03/2025 12:39:00 PM,Stray,Normal,Cat,Intact Male,1 weeks,Domestic Shorthair,Brown Tabby
+A929648,Lady Fitzgerald,05/03/2025 12:44:00 PM,Owner Surrender,Normal,Cat,Spayed Female,10 years,Domestic Longhair,Cream Tabby
+A929650,,05/03/2025 01:16:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Brown Tabby
+A929651,,05/03/2025 01:16:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Blue
+A929652,,05/03/2025 01:16:00 PM,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Blue Tabby
+A929656,,05/03/2025 01:32:00 PM,Stray,Normal,Dog,Intact Male,3 years,Rottweiler Mix,Black/Brown
+A929669,,05/03/2025 02:14:00 PM,Stray,Normal,Cat,Intact Female,2 days,Domestic Shorthair,Brown Tabby/White
+A929674,,05/03/2025 02:56:00 PM,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Brown Tabby
+A929679,,05/03/2025 08:25:00 PM,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Black
+A929680,,05/03/2025 08:25:00 PM,Stray,Neonatal,Cat,Intact Male,1 weeks,Domestic Shorthair,Brown Tabby
+A929697,,05/04/2025 08:52:00 AM,Stray,Injured,Dog,Spayed Female,9 years,Chihuahua Shorthair Mix,Tan/White
+A929699,,05/04/2025 08:56:00 AM,Stray,Normal,Dog,Intact Male,7 months,Pit Bull Mix,Brown Brindle
+A929700,,05/04/2025 09:01:00 AM,Stray,Injured,Dog,Intact Female,1 year,German Shepherd Mix,Black/Tan
+A929698,,05/04/2025 09:42:00 AM,Stray,Injured,Dog,Intact Female,3 years,Chihuahua Shorthair Mix,White
+A929682,,05/04/2025 09:53:00 AM,Stray,Injured,Dog,Intact Male,1 month,Great Pyrenees,White
+A929702,,05/04/2025 10:40:00 AM,Stray,Medical,Cat,Intact Female,3 weeks,Domestic Shorthair,Torbie/White
+A929703,,05/04/2025 10:40:00 AM,Stray,Medical,Cat,Intact Female,3 weeks,Domestic Shorthair,Torbie/White
+A929704,,05/04/2025 10:40:00 AM,Stray,Medical,Cat,Intact Female,3 weeks,Domestic Shorthair,Torbie/White
+A929705,,05/04/2025 10:40:00 AM,Stray,Medical,Cat,Intact Female,3 weeks,Domestic Shorthair,Torbie/White
+A929706,,05/04/2025 10:40:00 AM,Stray,Medical,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby
+A929707,,05/04/2025 10:40:00 AM,Stray,Medical,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby/White
+A929708,,05/04/2025 11:36:00 AM,Stray,Normal,Cat,Unknown,3 years,Domestic Shorthair,Gray Tabby
+A929709,,05/04/2025 12:01:00 PM,Stray,Normal,Cat,Unknown,2 years,Domestic Shorthair,Cream/White
+A929711,,05/04/2025 12:43:00 PM,Stray,Medical,Dog,Intact Male,1 month,Australian Cattle Dog,Red Merle
+A929681,,05/03/2025 08:25:00 PM,Stray,Neonatal,Cat,Intact Female,1 weeks,Domestic Shorthair,Brown Tabby
+A929690,,05/03/2025 11:18:00 PM,Stray,Injured,Dog,Intact Male,2 years,Belgian Malinois,Brown/Black
+A929717,,05/04/2025 03:14:00 PM,Public Assist,Normal,Dog,Intact Male,1 year,Shih Tzu Mix,White/Blue
+A929724,,05/04/2025 07:43:00 PM,Stray,Normal,Other,Unknown,1 year,Rabbit Sh,Tan/White
+A929725,Oswold,05/04/2025 10:55:00 PM,Public Assist,Normal,Dog,Intact Male,10 years,Boxer Mix,Tan/White
+A929635,,05/04/2025 11:44:00 PM,Stray,Normal,Cat,Spayed Female,2 years,Domestic Shorthair,Black/White
