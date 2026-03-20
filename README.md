@@ -5,6 +5,28 @@ This project builds a data cleaning and preprocessing pipeline for animal shelte
 
 ---
 
+## Final Dataset
+
+The final cleaned dataset is located in:
+
+`data/processed/cleaned_animal_data.csv`
+
+### Main Attributes
+- `animal_id` – Unique identifier for each animal  
+- `intake_datetime` – Date and time the animal entered the shelter  
+- `outcome_datetime` – Date and time the animal left the shelter  
+- `animal_type` – Type of animal (e.g., dog, cat)  
+- `breed` – Reported breed of the animal  
+- `color` – Color description of the animal  
+- `sex_upon_intake` – Sex of the animal at intake  
+- `age_upon_intake` – Age of the animal at intake  
+- `outcome_type` – Outcome category (e.g., adoption, transfer, euthanasia)  
+- `outcome_subtype` – Additional details about the outcome (if available)  
+
+This dataset is fully cleaned and standardized, and serves as the primary input for downstream analysis and modeling.
+
+---
+
 ## Features
 - Load and save datasets efficiently
 - Standardize column names (lowercase, underscore format)
