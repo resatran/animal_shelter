@@ -29,18 +29,19 @@ This project builds a data cleaning and preprocessing pipeline for animal shelte
 
 ## Project Structure
 animal_data/
-│── data/
-│ ├── raw/
-│ ├── processed/
 │
-│── src/
-│ ├── load_save.py
-│ ├── cleaning.py
-│ ├── datetime_split.py
+├── data/
+│   ├── raw/
+│   └── processed/
 │
-│── notebooks/
+├── src/
+│   ├── load_save.py
+│   ├── cleaning.py
+│   └── datetime_split.py
 │
-│── README.md
+├── notebooks/
+│
+└── README.md
 
 ---
 
