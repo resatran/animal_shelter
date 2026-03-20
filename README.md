@@ -1,7 +1,17 @@
 # Animal Shelter Data Pipeline
 
 ## Overview
-This project builds a data cleaning and preprocessing pipeline for animal shelter intake and outcome data. The goal is to transform raw, messy datasets into a clean, standardized format that can be used for analysis and modeling.
+This repository contains data cleaning and preprocessing for an animal shelter dataset from the Austin Animal Center in Austin, Texas. The work prepares intake and outcome records for downstream analysis and modeling.
+
+**Data Sources:**  
+- Intake Data: https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes-10-01-2013-to-05-05-2/wter-evkm/about_data  
+- Outcome Data: https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes-10-01-2013-to-05-05-/9t4d-g238/about_data  
+
+**Project Overview**  
+- **Goal:** Clean and structure the dataset to improve readability and usability, with the objective of analyzing how long animals typically stay in the shelter and estimating time to adoption.  
+- **Methods:** Merged intake and outcome datasets to create a unified master dataset, followed by data cleaning, column standardization, and datetime feature engineering. The cleaned dataset is designed to support analysis across variables such as breed, age, and intake conditions.  
+- **Scope:** Developed a reproducible data pipeline that produces a clean, standardized dataset for downstream analysis, ensuring consistency and preserving relationships between intake and outcome records.  
+- **Collaboration:** Conducted as part of a research project under UCSB Statistics Professor Tianyu Zhang.  
 
 ---
 
@@ -13,15 +23,20 @@ The final cleaned dataset is located in:
 
 ### Main Attributes
 - `animal_id` – Unique identifier for each animal  
-- `intake_datetime` – Date and time the animal entered the shelter  
-- `outcome_datetime` – Date and time the animal left the shelter  
+- `name` – Name of the animal (if available)  
+- `date_intake` – Date the animal entered the shelter  
+- `date_outcome` – Date the animal left the shelter  
+- `time_intake` – Time of intake  
+- `time_outcome` – Time of outcome  
+- `date_diff_days` – Length of stay in the shelter (in days), calculated as the difference between intake and outcome dates  
 - `animal_type` – Type of animal (e.g., dog, cat)  
-- `breed` – Reported breed of the animal  
-- `color` – Color description of the animal  
-- `sex_upon_intake` – Sex of the animal at intake  
-- `age_upon_intake` – Age of the animal at intake  
+- `breed` – Breed of the animal  
+- `age_year` – Age of the animal at intake (in years)  
+- `intake_type` – Method of intake (e.g., stray, owner surrender)  
 - `outcome_type` – Outcome category (e.g., adoption, transfer, euthanasia)  
-- `outcome_subtype` – Additional details about the outcome (if available)  
+- `sex_upon_outcome` – Sex of the animal at the time of outcome  
+- `intake_condition` – Condition of the animal at intake  
+- `date_of_birth` – Reported date of birth of the animal  
 
 This dataset is fully cleaned and standardized, and serves as the primary input for downstream analysis and modeling.
 
