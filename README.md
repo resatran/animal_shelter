@@ -43,6 +43,7 @@ animal_data/
 ├── notebooks/
 │
 └── README.md
+```
 
 ---
 
