@@ -28,6 +28,7 @@ This project builds a data cleaning and preprocessing pipeline for animal shelte
 ---
 
 ## Project Structure
+```bash
 animal_data/
 │
 ├── data/
