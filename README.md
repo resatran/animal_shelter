@@ -19,7 +19,7 @@ This repository contains data cleaning and preprocessing for an animal shelter d
 
 The final cleaned dataset is located in:
 
-`data/processed/cleaned_animal_data.csv`
+`data/processed/final_matched_animals.csv`
 
 ### Main Attributes
 - `animal_id` – Unique identifier for each animal  
@@ -31,7 +31,7 @@ The final cleaned dataset is located in:
 - `date_diff_days` – Length of stay in the shelter (in days), calculated as the difference between intake and outcome dates  
 - `animal_type` – Type of animal (e.g., dog, cat)  
 - `breed` – Breed of the animal  
-- `age_year` – Age of the animal at intake (in years)  
+- `age_intake_years` – Age of the animal at intake (in years)  
 - `intake_type` – Method of intake (e.g., stray, owner surrender)  
 - `outcome_type` – Outcome category (e.g., adoption, transfer, euthanasia)  
 - `sex_upon_outcome` – Sex of the animal at the time of outcome  
@@ -73,11 +73,7 @@ animal_data/
 │   └── processed/
 │
 ├── src/
-│   ├── load_save.py
-│   ├── cleaning.py
-│   └── datetime_split.py
-│
-├── notebooks/
+│   ├── animal_shelter_pipeline.py
 │
 └── README.md
 ```
@@ -94,7 +90,7 @@ animal_data/
 
 ## How to Use
 1. Place raw datasets in `data/raw/`
-2. Run the cleaning scripts or notebook
+2. Run the cleaning script
 3. Processed data will be saved in `data/processed/`
 
 ---
